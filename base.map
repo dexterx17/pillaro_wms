@@ -1,0 +1,216 @@
+MAP
+	# all temp files get prefixed with this string
+	NAME "Turismo Pillaro"
+	
+	# enable logs
+	CONFIG "MS_ERRORFILE" "pillaro.log"
+    DEBUG 5
+
+	# always returns a map
+	STATUS ON
+	
+	# image format options
+	OUTPUTFORMAT
+		NAME png
+		DRIVER "GD/PNG"
+		MIMETYPE "image/png"
+		IMAGEMODE RGB
+		EXTENSION "png"
+	END
+	
+	# width / height of map image
+	SIZE 500 300
+	
+	# projection of the INTERFACE that this mapfile supports
+	PROJECTION 
+		"init=epsg:4326"
+	END
+	
+	# minx miny maxx maxy
+	#EXTENT -180 -90 180 90 # World
+	#EXTENT -1.2415460348129 -78.575233459473 -0.97062301635725 -78.320777893066 # Pillaro
+	EXTENT -78.575233459473 -1.2415460348129 -78.320777893066 -0.97062301635725 # Pillaro
+
+	#URL DE LOS SHAPEFILES
+	SHAPEPATH "data"
+
+	# units of map/app
+	UNITS meters
+
+	# def pointers for symbols
+	SYMBOLSET "C:/ms4w/apps/pillaro/symbols/symbols.txt"
+	FONTSET   "C:/ms4w/apps/pillaro/fonts/fonts.txt"
+
+	#
+	# Start of web interface definition
+	#
+	WEB
+
+		#TEMPLATE templates/default.html
+
+		# this is set in the form which initializes the page, but can be set here if you want
+		#INCLUDE "../common/imagepath.inc"
+		IMAGEPATH "C:/ms4w/tmp/ms_tmp/"
+
+		# this is set in the form which initializes the page, but can be set here if you want
+		IMAGEURL "/ms_tmp/"
+
+		METADATA
+			# generic OWS specific info
+			# sets base URL for OGC Schemas so the root element in the
+			# Capabilities document points to the correct schema location
+			# to produce valid XML
+			#"ows_schemas_location" "http://schemas.opengis.net"
+
+			# OGC:WMS specific tags
+
+			# sets:
+			# /ViewContext/General/Title
+			"wms_title" "WMS Pillaro Turismo"
+
+			# sets:
+			# /ViewContext/General/Abstract
+			"wms_abstract" "Mapa Turistico Pillaro"
+
+			# sets:
+			# /ViewContext/General/KeywordList/Keyword[]
+			"wms_keywordlist" "Tungurahua,Pillaro,Turismo,WMS"
+
+			# sets:
+			# /ViewContext/General/ContactInformation/ContactPersonPrimary/ContactPerson
+			"wms_contactperson" "Stefania Morales"
+
+			# sets:
+			# /ViewContext/General/ContactInformation/ContactPersonPrimary/ContactOrganization
+			"wms_contactorganization" "Gobierno Autonomo Descentralizado Municipal Santiago de Pillaro"
+
+			# sets:
+			# /ViewContext/General/ContactInformation/ContactPosition
+			"wms_contactposition" "Promotor de Turismo"
+
+			# sets:
+			# /ViewContext/General/ContactInformation/ContactAddress/AddressType
+			"wms_addresstype" "Edificio"
+
+			# sets:
+			# /ViewContext/General/ContactInformation/ContactAddress/Address
+			"wms_address"     "Bolivar y Rocafuerte Esquina Tercer Piso  Frente de la Iglesia"
+
+			# sets:
+			# /ViewContext/General/ContactInformation/ContactAddress/City
+			"wms_city" "Pillaro"
+
+			# sets:
+			# /ViewContext/General/ContactInformation/ContactAddress/StateOrProvince
+			"wms_stateorprovince" "Tungurahua"
+
+			# sets:
+			# /ViewContext/General/ContactInformation/ContactAddress/PostCode
+			"wms_postcode" "180802"
+
+			# sets:
+			# /ViewContext/General/ContactInformation/ContactAddress/Country
+			"wms_country" "Ecuador"
+
+			# sets:
+			# /ViewContext/General/ContactInformation/ContactVoiceTelephone
+			"wms_contactvoicetelephone" "+593-3700470 ext. 8015"
+
+			# sets:
+			# /ViewContext/General/ContactInformation/ContactFacsimileTelephone
+			"wms_contactfacsimiletelephone" "+593-995612023"
+
+			# sets:
+			# /ViewContext/General/ContactInformation/ContactElectronicMailAddress
+			"wms_contactelectronicmailaddress" "sistemas@santana.ec"
+
+			# if this value is set to 1, you can convert a mapfile to
+			# an OGC:WMC via URL, with:
+			# http://localhost/cgi-bin/mapserv.exe?map=/osgeo4w/apps/ms-ogc-workshop/context/demo.map&request=GetContext
+			# Remember, an OGC:WMC (just like any other XML) does NOT
+			# have to be a static document
+			"wms_getcontext_enabled" "1"
+
+			# sets:
+			# /ViewContext/@id
+			"wms_context_fid" "wms-pillaro"
+
+			# sets:
+			# /ViewContext/@version
+			"wms_context_version" "1.0.0"
+
+			# sets:
+			# /ViewContext/General/DescriptionURL/@format
+			"wms_descriptionurl_format" "text/html"
+
+			# sets:
+			# /ViewContext/General/DescriptionURL/OnlineResource/@xlink:href
+			"wms_descriptionurl_href" "http://127.0.0.1:8082/cgi-bin/mapserv.exe?map=C:/ms4w/apps/pillaro/base.map&"
+
+			# sets:
+			# /ViewContext/General/LogoURL/@width
+			"wms_logourl_width" "439"
+
+			# sets:
+			# /ViewContext/General/LogoURL/@height
+			"wms_logourl_height" "68"
+
+			# sets:
+			# /ViewContext/General/LogoURL/@format
+			"wms_logourl_format" "image/jpeg"
+
+			# sets:
+			# /ViewContext/General/LogoURL/OnlineResource/@xlink:href
+			#"wms_logourl_href" "http://mapserver.osgeo.org/_static/mapserver.jpg"
+
+			"wms_srs"             "EPSG:4326"
+			"wms_getfeature_formatlist" "text/html"
+			"wms_feature_info_mime_type" "text/html"
+	    	"wms_enable_request" "*"
+		END
+	END
+
+	LAYER
+		NAME "lugares"
+		EXTENT -78.575233459473 -1.2415460348129  -78.320777893066 -0.97062301635725 
+		#EXTENT -1.2415460348129 -78.575233459473 -0.97062301635725 -78.320777893066 
+		STATUS ON  
+		METADATA
+			"wms_title"    "lugares"
+			"wms_srs"             "EPSG:4326"
+	    	"wms_enable_request" "*"
+	    	"wms_include_items" "all"
+	    	"wms_getfeature_formatlist" "text/html"
+			"wms_feature_info_mime_type" "text/html"
+		END
+		TYPE POINT
+		DATA "puntos.shp"
+		PROJECTION
+			"init=epsg:4326"
+		END
+		DUMP TRUE  # For GML FeatureInfo output
+		LabelItem "Nombre"  
+		#CLASSITEM "id" 
+		CLASS
+			NAME "Lugares"  
+			STYLE
+				SYMBOL 2
+				SIZE 8
+				COLOR 0 0 0            
+			END
+			LABEL
+				COLOR  255 0 0
+				FONT verdana
+				TYPE truetype
+				SIZE 8
+				POSITION AUTO     
+				PARTIALS FALSE
+				OUTLINECOLOR 255 255 255      
+			END 
+		END
+		TOLERANCE 5
+		TEMPLATE "templates/lugares.html"
+		HEADER "templates/lugares_header.html"
+		FOOTER "templates/lugares_footer.html"
+		END # Layer
+END

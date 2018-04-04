@@ -184,14 +184,12 @@ MAP
 			"wms_feature_info_mime_type" "text/html"
 		END
 		TYPE POINT
-		CONNECTIONTYPE postgis
-    	CONNECTION "dbname='pillaro' host='127.0.0.1' port=5432 user='postgres' password='12345' sslmode=disable"
-	  	DATA 'geomwgs FROM "public"."lugares" USING UNIQUE id USING srid=4326'
+		DATA "puntos.shp"
 		PROJECTION
 			"init=epsg:4326"
 		END
 		DUMP TRUE  # For GML FeatureInfo output
-		LabelItem "nombre"  
+		LabelItem "Nombre"  
 		#CLASSITEM "id" 
 		CLASS
 			NAME "Lugares"  

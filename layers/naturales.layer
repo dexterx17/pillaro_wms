@@ -1,0 +1,45 @@
+LAYER
+	NAME "naturales"
+	EXTENT -78.575233459473 -1.2415460348129  -78.320777893066 -0.97062301635725 
+	#EXTENT -1.2415460348129 -78.575233459473 -0.97062301635725 -78.320777893066 
+	STATUS ON  
+	METADATA
+		"wms_title"    "Destinos naturales"
+		"wms_srs"             "EPSG:4326"
+    	"wms_enable_request" "*"
+    	"wms_include_items" "all"
+    	"wms_getfeature_formatlist" "text/html"
+		"wms_feature_info_mime_type" "text/html"
+	END
+	TYPE POINT
+	CONNECTIONTYPE postgis
+	CONNECTION "dbname='pillaro' host='127.0.0.1' port=5432 user='postgres' password='12345' sslmode=disable"
+  	DATA 'geomwgs FROM (select L.*, L.id as codigo from lugares L, actividad_lugar AL where L.id=AL.lugar_id AND AL.actividad_id=2) as subquery USING UNIQUE id USING srid=4326'
+	PROJECTION
+		"init=epsg:4326"
+	END
+	DUMP TRUE  # For GML FeatureInfo output
+	LabelItem "nombre"  
+	#CLASSITEM "id" 
+	CLASS
+		NAME "Destino natural"  
+		STYLE
+			SYMBOL 4
+			SIZE 10
+			COLOR 0 0 0            
+		END
+		LABEL
+			COLOR  0 0 255
+			FONT verdana
+			TYPE truetype
+			SIZE 8
+			POSITION AUTO     
+			PARTIALS FALSE
+			OUTLINECOLOR 255 255 255      
+		END 
+	END
+	TOLERANCE 5
+	TEMPLATE "templates/lugares.html"
+	HEADER "templates/lugares_header.html"
+	FOOTER "templates/lugares_footer.html"
+END # Layer

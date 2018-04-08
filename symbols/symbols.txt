@@ -4,21 +4,6 @@
 SYMBOLSET
  #1
  SYMBOL
-  NAME 'tent'
-  TYPE VECTOR
-  FILLED TRUE
-  POINTS
-   0 1
-   .5 0
-   1 1
-   .75 1
-   .5 .5
-   .25 1
-   0 1
-  END
- END 
- #2
- SYMBOL
   NAME 'star'
   TYPE VECTOR
   FILLED TRUE
@@ -36,6 +21,41 @@ SYMBOLSET
   END
  END 
  
+ # 2 hotel
+ SYMBOL
+  NAME 'hotel'
+  TYPE pixmap
+  IMAGE 'bed.png'
+ END
+ 
+ # 3 restaurant
+ SYMBOL
+  NAME 'restaurant'
+  TYPE pixmap
+  IMAGE 'restaurant.png'
+ END
+
+ # 4 natural
+ SYMBOL
+  NAME 'natural'
+  TYPE pixmap
+  IMAGE 'tree.png'
+ END
+
+ # 5 cultural
+ SYMBOL
+  NAME 'cultural'
+  TYPE pixmap
+  IMAGE 'cultural.png'
+ END
+
+ # 6 artesanal
+ SYMBOL
+  NAME 'artesanal'
+  TYPE pixmap
+  IMAGE 'artesanal.png'
+ END
+
  #3
  SYMBOL
   NAME 'triangle'

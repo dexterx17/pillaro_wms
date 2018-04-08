@@ -1,160 +1,1248 @@
-[Wed Mar 28 15:50:48 2018].314000 CGI Request 1 on process 7864
-[Wed Mar 28 15:50:48 2018].314000 msWMSLoadGetMapParams(): enabling non-square pixels.
-[Wed Mar 28 15:50:48 2018].314000 msDrawMap(): kicking into non-square pixel preserving mode.
-[Wed Mar 28 15:50:48 2018].314000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
-[Wed Mar 28 15:50:48 2018].314000 msDrawMap(): WMS/WFS set-up and query, 0.000s
-[Wed Mar 28 15:50:48 2018].346000 msDrawMap(): Layer 0 (lugares), 0.032s
-[Wed Mar 28 15:50:48 2018].346000 msDrawMap(): Drawing Label Cache, 0.000s
-[Wed Mar 28 15:50:48 2018].346000 msDrawMap() total time: 0.032s
-[Wed Mar 28 15:50:48 2018].361000 msSaveImage(stdout) total time: 0.015s
-[Wed Mar 28 15:50:48 2018].361000 mapserv request processing time (msLoadMap not incl.): 0.047s
-[Wed Mar 28 15:50:48 2018].361000 msFreeMap(): freeing map at 01326278.
-[Wed Mar 28 15:51:08 2018].964000 CGI Request 1 on process 9028
-[Wed Mar 28 15:51:08 2018].964000 msWMSLoadGetMapParams(): enabling non-square pixels.
-[Wed Mar 28 15:51:08 2018].964000 msDrawMap(): kicking into non-square pixel preserving mode.
-[Wed Mar 28 15:51:08 2018].964000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
-[Wed Mar 28 15:51:08 2018].964000 msDrawMap(): WMS/WFS set-up and query, 0.000s
-[Wed Mar 28 15:51:08 2018].995000 msDrawMap(): Layer 0 (lugares), 0.031s
-[Wed Mar 28 15:51:08 2018].995000 msDrawMap(): Drawing Label Cache, 0.000s
-[Wed Mar 28 15:51:08 2018].995000 msDrawMap() total time: 0.031s
-[Wed Mar 28 15:51:08 2018].995000 msSaveImage(stdout) total time: 0.000s
-[Wed Mar 28 15:51:08 2018].995000 mapserv request processing time (msLoadMap not incl.): 0.031s
-[Wed Mar 28 15:51:08 2018].995000 msFreeMap(): freeing map at 00746278.
-[Wed Mar 28 15:51:09 2018].902000 CGI Request 1 on process 8528
-[Wed Mar 28 15:51:09 2018].902000 msWMSLoadGetMapParams(): enabling non-square pixels.
-[Wed Mar 28 15:51:09 2018].902000 msDrawMap(): kicking into non-square pixel preserving mode.
-[Wed Mar 28 15:51:09 2018].902000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
-[Wed Mar 28 15:51:09 2018].902000 msDrawMap(): WMS/WFS set-up and query, 0.000s
-[Wed Mar 28 15:51:09 2018].933000 msDrawMap(): Layer 0 (lugares), 0.031s
-[Wed Mar 28 15:51:09 2018].933000 msDrawMap(): Drawing Label Cache, 0.000s
-[Wed Mar 28 15:51:09 2018].933000 msDrawMap() total time: 0.031s
-[Wed Mar 28 15:51:09 2018].933000 msSaveImage(stdout) total time: 0.000s
-[Wed Mar 28 15:51:09 2018].933000 mapserv request processing time (msLoadMap not incl.): 0.031s
-[Wed Mar 28 15:51:09 2018].933000 msFreeMap(): freeing map at 00B36278.
-[Wed Mar 28 15:51:20 2018].889000 CGI Request 1 on process 6628
-[Wed Mar 28 15:51:20 2018].889000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
-[Wed Mar 28 15:51:20 2018].889000 msDrawMap(): WMS/WFS set-up and query, 0.000s
-[Wed Mar 28 15:51:20 2018].967000 msDrawMap(): Layer 0 (lugares), 0.078s
-[Wed Mar 28 15:51:20 2018].967000 msDrawMap(): Drawing Label Cache, 0.000s
-[Wed Mar 28 15:51:20 2018].967000 msDrawMap() total time: 0.078s
-[Wed Mar 28 15:51:21 2018].14000 msSaveImage(stdout) total time: 0.047s
-[Wed Mar 28 15:51:21 2018].14000 mapserv request processing time (msLoadMap not incl.): 0.125s
-[Wed Mar 28 15:51:21 2018].14000 msFreeMap(): freeing map at 008F7A20.
-[Wed Mar 28 15:51:21 2018].358000 CGI Request 1 on process 3300
-[Wed Mar 28 15:51:21 2018].358000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
-[Wed Mar 28 15:51:21 2018].358000 msDrawMap(): WMS/WFS set-up and query, 0.000s
-[Wed Mar 28 15:51:21 2018].389000 msDrawMap(): Layer 0 (lugares), 0.031s
-[Wed Mar 28 15:51:21 2018].389000 msDrawMap(): Drawing Label Cache, 0.000s
-[Wed Mar 28 15:51:21 2018].389000 msDrawMap() total time: 0.031s
-[Wed Mar 28 15:51:21 2018].404000 msSaveImage(stdout) total time: 0.015s
-[Wed Mar 28 15:51:21 2018].404000 mapserv request processing time (msLoadMap not incl.): 0.046s
-[Wed Mar 28 15:51:21 2018].404000 msFreeMap(): freeing map at 00BC7898.
-[Wed Mar 28 15:51:36 2018].36000 CGI Request 1 on process 9264
-[Wed Mar 28 15:51:36 2018].67000 msQueryByPoint(): Search returned no results. No matching record(s) found.
-[Wed Mar 28 15:51:36 2018].67000 mapserv request processing time (msLoadMap not incl.): 0.031s
-[Wed Mar 28 15:51:36 2018].67000 msFreeMap(): freeing map at 009D54D8.
-[Wed Mar 28 15:53:34 2018].285000 CGI Request 1 on process 6680
-[Wed Mar 28 15:53:34 2018].285000 msWMSLoadGetMapParams(): enabling non-square pixels.
-[Wed Mar 28 15:53:34 2018].285000 msDrawMap(): kicking into non-square pixel preserving mode.
-[Wed Mar 28 15:53:34 2018].285000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
-[Wed Mar 28 15:53:34 2018].285000 msDrawMap(): WMS/WFS set-up and query, 0.000s
-[Wed Mar 28 15:53:34 2018].363000 msDrawMap(): Layer 0 (lugares), 0.078s
-[Wed Mar 28 15:53:34 2018].363000 msDrawMap(): Drawing Label Cache, 0.000s
-[Wed Mar 28 15:53:34 2018].363000 msDrawMap() total time: 0.078s
-[Wed Mar 28 15:53:34 2018].363000 msSaveImage(stdout) total time: 0.000s
-[Wed Mar 28 15:53:34 2018].363000 mapserv request processing time (msLoadMap not incl.): 0.078s
-[Wed Mar 28 15:53:34 2018].363000 msFreeMap(): freeing map at 01136130.
-[Wed Mar 28 15:53:44 2018].991000 CGI Request 1 on process 8088
-[Wed Mar 28 15:53:44 2018].991000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
-[Wed Mar 28 15:53:44 2018].991000 msDrawMap(): WMS/WFS set-up and query, 0.000s
-[Wed Mar 28 15:53:45 2018].22000 msDrawMap(): Layer 0 (lugares), 0.031s
-[Wed Mar 28 15:53:45 2018].38000 msDrawMap(): Drawing Label Cache, 0.016s
-[Wed Mar 28 15:53:45 2018].38000 msDrawMap() total time: 0.047s
-[Wed Mar 28 15:53:45 2018].85000 msSaveImage(stdout) total time: 0.047s
-[Wed Mar 28 15:53:45 2018].85000 mapserv request processing time (msLoadMap not incl.): 0.094s
-[Wed Mar 28 15:53:45 2018].85000 msFreeMap(): freeing map at 00557A20.
-[Wed Mar 28 15:53:45 2018].100000 CGI Request 1 on process 8688
-[Wed Mar 28 15:53:45 2018].100000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
-[Wed Mar 28 15:53:45 2018].100000 msDrawMap(): WMS/WFS set-up and query, 0.000s
-[Wed Mar 28 15:53:45 2018].147000 msDrawMap(): Layer 0 (lugares), 0.047s
-[Wed Mar 28 15:53:45 2018].147000 msDrawMap(): Drawing Label Cache, 0.000s
-[Wed Mar 28 15:53:45 2018].147000 msDrawMap() total time: 0.047s
-[Wed Mar 28 15:53:45 2018].147000 msSaveImage(stdout) total time: 0.000s
-[Wed Mar 28 15:53:45 2018].147000 mapserv request processing time (msLoadMap not incl.): 0.047s
-[Wed Mar 28 15:53:45 2018].147000 msFreeMap(): freeing map at 00D17898.
-[Wed Mar 28 15:53:51 2018].117000 CGI Request 1 on process 7388
-[Wed Mar 28 15:53:51 2018].164000 mapserv request processing time (msLoadMap not incl.): 0.047s
-[Wed Mar 28 15:53:51 2018].164000 msFreeMap(): freeing map at 013154D8.
-[Wed Mar 28 15:54:55 2018].738000 CGI Request 1 on process 6396
-[Wed Mar 28 15:54:55 2018].769000 msQueryByPoint(): Search returned no results. No matching record(s) found.
-[Wed Mar 28 15:54:55 2018].785000 mapserv request processing time (msLoadMap not incl.): 0.047s
-[Wed Mar 28 15:54:55 2018].785000 msFreeMap(): freeing map at 009554D8.
-[Wed Mar 28 15:54:59 2018].113000 CGI Request 1 on process 8456
-[Wed Mar 28 15:54:59 2018].113000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
-[Wed Mar 28 15:54:59 2018].113000 msDrawMap(): WMS/WFS set-up and query, 0.000s
-[Wed Mar 28 15:54:59 2018].145000 msDrawMap(): Layer 0 (lugares), 0.032s
-[Wed Mar 28 15:54:59 2018].145000 msDrawMap(): Drawing Label Cache, 0.000s
-[Wed Mar 28 15:54:59 2018].145000 msDrawMap() total time: 0.032s
-[Wed Mar 28 15:54:59 2018].192000 msSaveImage(stdout) total time: 0.047s
-[Wed Mar 28 15:54:59 2018].192000 mapserv request processing time (msLoadMap not incl.): 0.079s
-[Wed Mar 28 15:54:59 2018].192000 msFreeMap(): freeing map at 00527A20.
-[Wed Mar 28 15:54:59 2018].223000 CGI Request 1 on process 9528
-[Wed Mar 28 15:54:59 2018].223000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
-[Wed Mar 28 15:54:59 2018].223000 msDrawMap(): WMS/WFS set-up and query, 0.000s
-[Wed Mar 28 15:54:59 2018].254000 msDrawMap(): Layer 0 (lugares), 0.031s
-[Wed Mar 28 15:54:59 2018].270000 msDrawMap(): Drawing Label Cache, 0.016s
-[Wed Mar 28 15:54:59 2018].270000 msDrawMap() total time: 0.047s
-[Wed Mar 28 15:54:59 2018].270000 msSaveImage(stdout) total time: 0.000s
-[Wed Mar 28 15:54:59 2018].270000 mapserv request processing time (msLoadMap not incl.): 0.047s
-[Wed Mar 28 15:54:59 2018].270000 msFreeMap(): freeing map at 00407898.
-[Wed Mar 28 15:55:02 2018].926000 CGI Request 1 on process 2284
-[Wed Mar 28 15:55:02 2018].926000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
-[Wed Mar 28 15:55:02 2018].926000 msDrawMap(): WMS/WFS set-up and query, 0.000s
-[Wed Mar 28 15:55:02 2018].989000 msDrawMap(): Layer 0 (lugares), 0.063s
-[Wed Mar 28 15:55:03 2018].4000 msDrawMap(): Drawing Label Cache, 0.015s
-[Wed Mar 28 15:55:03 2018].4000 msDrawMap() total time: 0.078s
-[Wed Mar 28 15:55:03 2018].51000 msSaveImage(stdout) total time: 0.047s
-[Wed Mar 28 15:55:03 2018].51000 mapserv request processing time (msLoadMap not incl.): 0.125s
-[Wed Mar 28 15:55:03 2018].51000 msFreeMap(): freeing map at 00487A20.
-[Wed Mar 28 15:55:06 2018].192000 CGI Request 1 on process 9692
-[Wed Mar 28 15:55:06 2018].192000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
-[Wed Mar 28 15:55:06 2018].192000 msDrawMap(): WMS/WFS set-up and query, 0.000s
-[Wed Mar 28 15:55:06 2018].255000 msDrawMap(): Layer 0 (lugares), 0.063s
-[Wed Mar 28 15:55:06 2018].271000 msDrawMap(): Drawing Label Cache, 0.016s
-[Wed Mar 28 15:55:06 2018].271000 msDrawMap() total time: 0.079s
-[Wed Mar 28 15:55:06 2018].318000 msSaveImage(stdout) total time: 0.047s
-[Wed Mar 28 15:55:06 2018].318000 mapserv request processing time (msLoadMap not incl.): 0.126s
-[Wed Mar 28 15:55:06 2018].318000 msFreeMap(): freeing map at 00457920.
-[Wed Mar 28 15:55:07 2018].271000 CGI Request 1 on process 3272
-[Wed Mar 28 15:55:07 2018].271000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
-[Wed Mar 28 15:55:07 2018].271000 msDrawMap(): WMS/WFS set-up and query, 0.000s
-[Wed Mar 28 15:55:07 2018].302000 msDrawMap(): Layer 0 (lugares), 0.031s
-[Wed Mar 28 15:55:07 2018].318000 msDrawMap(): Drawing Label Cache, 0.016s
-[Wed Mar 28 15:55:07 2018].318000 msDrawMap() total time: 0.047s
-[Wed Mar 28 15:55:07 2018].364000 msSaveImage(stdout) total time: 0.046s
-[Wed Mar 28 15:55:07 2018].364000 mapserv request processing time (msLoadMap not incl.): 0.093s
-[Wed Mar 28 15:55:07 2018].364000 msFreeMap(): freeing map at 00ED79D0.
-[Wed Mar 28 15:55:12 2018].131000 CGI Request 1 on process 8880
-[Wed Mar 28 15:55:12 2018].178000 mapserv request processing time (msLoadMap not incl.): 0.047s
-[Wed Mar 28 15:55:12 2018].178000 msFreeMap(): freeing map at 012F5400.
-[Wed Mar 28 15:55:48 2018].483000 CGI Request 1 on process 1576
-[Wed Mar 28 15:55:48 2018].514000 mapserv request processing time (msLoadMap not incl.): 0.031s
-[Wed Mar 28 15:55:48 2018].514000 msFreeMap(): freeing map at 00F95400.
-[Wed Mar 28 16:21:23 2018].840000 CGI Request 1 on process 7964
-[Wed Mar 28 16:21:23 2018].840000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
-[Wed Mar 28 16:21:23 2018].840000 msDrawMap(): WMS/WFS set-up and query, 0.000s
-[Wed Mar 28 16:21:23 2018].918000 msDrawMap(): Layer 0 (lugares), 0.078s
-[Wed Mar 28 16:21:23 2018].933000 msDrawMap(): Drawing Label Cache, 0.015s
-[Wed Mar 28 16:21:23 2018].933000 msDrawMap() total time: 0.093s
-[Wed Mar 28 16:21:23 2018].949000 msSaveImage(stdout) total time: 0.016s
-[Wed Mar 28 16:21:23 2018].949000 mapserv request processing time (msLoadMap not incl.): 0.109s
-[Wed Mar 28 16:21:23 2018].949000 msFreeMap(): freeing map at 00F377A0.
-[Wed Mar 28 16:21:23 2018].777000 CGI Request 1 on process 8232
-[Wed Mar 28 16:21:23 2018].777000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
-[Wed Mar 28 16:21:23 2018].777000 msDrawMap(): WMS/WFS set-up and query, 0.000s
-[Wed Mar 28 16:21:23 2018].918000 msDrawMap(): Layer 0 (lugares), 0.141s
-[Wed Mar 28 16:21:23 2018].949000 msDrawMap(): Drawing Label Cache, 0.031s
-[Wed Mar 28 16:21:23 2018].949000 msDrawMap() total time: 0.172s
-[Wed Mar 28 16:21:23 2018].980000 msSaveImage(stdout) total time: 0.031s
-[Wed Mar 28 16:21:23 2018].980000 mapserv request processing time (msLoadMap not incl.): 0.203s
-[Wed Mar 28 16:21:23 2018].980000 msFreeMap(): freeing map at 004D7A28.
+[Sat Apr 07 20:37:18 2018].921000 CGI Request 1 on process 240
+[Sat Apr 07 20:37:18 2018].921000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 20:37:18 2018].921000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 20:37:18 2018].921000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 20:37:18 2018].921000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 20:37:18 2018].936000 msDrawMap(): Layer 0 (hospedaje), 0.015s
+[Sat Apr 07 20:37:18 2018].952000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sat Apr 07 20:37:18 2018].952000 msDrawMap() total time: 0.031s
+[Sat Apr 07 20:37:18 2018].952000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 20:37:18 2018].952000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sat Apr 07 20:37:18 2018].952000 msFreeMap(): freeing map at 006D37C8.
+[Sat Apr 07 20:37:27 2018].650000 CGI Request 1 on process 3036
+[Sat Apr 07 20:37:27 2018].650000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 20:37:27 2018].650000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 20:37:27 2018].650000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 20:37:27 2018].650000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 20:37:27 2018].681000 msDrawMap(): Layer 0 (hospedaje), 0.031s
+[Sat Apr 07 20:37:27 2018].681000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 20:37:27 2018].681000 msDrawMap() total time: 0.031s
+[Sat Apr 07 20:37:27 2018].681000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 20:37:27 2018].681000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sat Apr 07 20:37:27 2018].681000 msFreeMap(): freeing map at 00C737C8.
+[Sat Apr 07 20:51:01 2018].938000 CGI Request 1 on process 6572
+[Sat Apr 07 20:51:01 2018].938000 msWMSLoadGetMapParams(): WMS server error. Invalid layer(s) given in the LAYERS parameter. A layer might be disabled for this request. Check wms/ows_enable_request settings.
+[Sat Apr 07 20:51:01 2018].938000 mapserv request processing time (msLoadMap not incl.): 0.000s
+[Sat Apr 07 20:51:01 2018].938000 msFreeMap(): freeing map at 00633828.
+[Sat Apr 07 20:51:37 2018].23000 CGI Request 1 on process 5208
+[Sat Apr 07 20:51:37 2018].23000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 20:51:37 2018].23000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 20:51:37 2018].23000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 20:51:37 2018].23000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 20:51:37 2018].54000 msDrawMap(): Layer 0 (hospedaje), 0.031s
+[Sat Apr 07 20:51:37 2018].54000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 20:51:37 2018].54000 msDrawMap() total time: 0.031s
+[Sat Apr 07 20:51:37 2018].54000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 20:51:37 2018].54000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sat Apr 07 20:51:37 2018].54000 msFreeMap(): freeing map at 00C137C8.
+[Sat Apr 07 20:52:06 2018].516000 CGI Request 1 on process 3564
+[Sat Apr 07 20:52:06 2018].516000 msWMSLoadGetMapParams(): WMS server error. Invalid layer(s) given in the LAYERS parameter. A layer might be disabled for this request. Check wms/ows_enable_request settings.
+[Sat Apr 07 20:52:06 2018].516000 mapserv request processing time (msLoadMap not incl.): 0.000s
+[Sat Apr 07 20:52:06 2018].516000 msFreeMap(): freeing map at 00DF36D8.
+[Sat Apr 07 20:52:28 2018].221000 CGI Request 1 on process 6380
+[Sat Apr 07 20:52:28 2018].221000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 20:52:28 2018].221000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 20:52:28 2018].221000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 20:52:28 2018].221000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 20:52:28 2018].252000 msDrawMap(): Layer 0 (lugares), 0.031s
+[Sat Apr 07 20:52:28 2018].252000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 20:52:28 2018].252000 msDrawMap() total time: 0.031s
+[Sat Apr 07 20:52:28 2018].268000 msSaveImage(stdout) total time: 0.016s
+[Sat Apr 07 20:52:28 2018].268000 mapserv request processing time (msLoadMap not incl.): 0.047s
+[Sat Apr 07 20:52:28 2018].268000 msFreeMap(): freeing map at 003636D8.
+[Sat Apr 07 20:52:46 2018].346000 CGI Request 1 on process 2732
+[Sat Apr 07 20:52:46 2018].346000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 20:52:46 2018].346000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 20:52:46 2018].346000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 20:52:46 2018].346000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 20:52:46 2018].377000 msDrawMap(): Layer 0 (lugares), 0.031s
+[Sat Apr 07 20:52:46 2018].377000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 20:52:46 2018].377000 msDrawMap() total time: 0.031s
+[Sat Apr 07 20:52:46 2018].377000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 20:52:46 2018].377000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sat Apr 07 20:52:46 2018].377000 msFreeMap(): freeing map at 011D3828.
+[Sat Apr 07 20:53:03 2018].341000 CGI Request 1 on process 1576
+[Sat Apr 07 20:53:03 2018].341000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 20:53:03 2018].341000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 20:53:03 2018].341000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 20:53:03 2018].341000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 20:53:03 2018].372000 msDrawMap(): Layer 0 (lugares), 0.031s
+[Sat Apr 07 20:53:03 2018].372000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 20:53:03 2018].372000 msDrawMap() total time: 0.031s
+[Sat Apr 07 20:53:03 2018].388000 msSaveImage(stdout) total time: 0.016s
+[Sat Apr 07 20:53:03 2018].388000 mapserv request processing time (msLoadMap not incl.): 0.047s
+[Sat Apr 07 20:53:03 2018].388000 msFreeMap(): freeing map at 00753828.
+[Sat Apr 07 20:53:04 2018].357000 CGI Request 1 on process 3844
+[Sat Apr 07 20:53:04 2018].357000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 20:53:04 2018].357000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 20:53:04 2018].357000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 20:53:04 2018].357000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 20:53:04 2018].388000 msDrawMap(): Layer 0 (lugares), 0.031s
+[Sat Apr 07 20:53:04 2018].388000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 20:53:04 2018].388000 msDrawMap() total time: 0.031s
+[Sat Apr 07 20:53:04 2018].388000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 20:53:04 2018].388000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sat Apr 07 20:53:04 2018].388000 msFreeMap(): freeing map at 00CE3828.
+[Sat Apr 07 20:53:09 2018].720000 CGI Request 1 on process 3088
+[Sat Apr 07 20:53:09 2018].720000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 20:53:09 2018].720000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 20:53:09 2018].720000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 20:53:09 2018].720000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 20:53:09 2018].751000 msDrawMap(): Layer 0 (lugares), 0.031s
+[Sat Apr 07 20:53:09 2018].751000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 20:53:09 2018].751000 msDrawMap() total time: 0.031s
+[Sat Apr 07 20:53:09 2018].766000 msSaveImage(stdout) total time: 0.015s
+[Sat Apr 07 20:53:09 2018].766000 mapserv request processing time (msLoadMap not incl.): 0.046s
+[Sat Apr 07 20:53:09 2018].766000 msFreeMap(): freeing map at 00503828.
+[Sat Apr 07 20:53:16 2018].285000 CGI Request 1 on process 3296
+[Sat Apr 07 20:53:16 2018].285000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 20:53:16 2018].285000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 20:53:16 2018].285000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 20:53:16 2018].285000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 20:53:16 2018].317000 msDrawMap(): Layer 0 (lugares), 0.032s
+[Sat Apr 07 20:53:16 2018].317000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 20:53:16 2018].317000 msDrawMap() total time: 0.032s
+[Sat Apr 07 20:53:16 2018].332000 msSaveImage(stdout) total time: 0.015s
+[Sat Apr 07 20:53:16 2018].332000 mapserv request processing time (msLoadMap not incl.): 0.047s
+[Sat Apr 07 20:53:16 2018].332000 msFreeMap(): freeing map at 01093828.
+[Sat Apr 07 20:53:19 2018].865000 CGI Request 1 on process 3620
+[Sat Apr 07 20:53:19 2018].865000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 20:53:19 2018].865000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 20:53:19 2018].865000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 20:53:19 2018].865000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 20:53:19 2018].896000 msDrawMap(): Layer 0 (lugares), 0.031s
+[Sat Apr 07 20:53:19 2018].912000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sat Apr 07 20:53:19 2018].912000 msDrawMap() total time: 0.047s
+[Sat Apr 07 20:53:19 2018].912000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 20:53:19 2018].912000 mapserv request processing time (msLoadMap not incl.): 0.047s
+[Sat Apr 07 20:53:19 2018].912000 msFreeMap(): freeing map at 006E3828.
+[Sat Apr 07 20:53:35 2018].249000 CGI Request 1 on process 1456
+[Sat Apr 07 20:53:35 2018].249000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 20:53:35 2018].249000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 20:53:35 2018].249000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 20:53:35 2018].249000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 20:53:35 2018].280000 msDrawMap(): Layer 0 (lugares), 0.031s
+[Sat Apr 07 20:53:35 2018].280000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 20:53:35 2018].280000 msDrawMap() total time: 0.031s
+[Sat Apr 07 20:53:35 2018].280000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 20:53:35 2018].280000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sat Apr 07 20:53:35 2018].280000 msFreeMap(): freeing map at 00503828.
+[Sat Apr 07 20:53:42 2018].643000 CGI Request 1 on process 3924
+[Sat Apr 07 20:53:42 2018].643000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 20:53:42 2018].643000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 20:53:42 2018].643000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 20:53:42 2018].643000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 20:53:42 2018].674000 msDrawMap(): Layer 0 (lugares), 0.031s
+[Sat Apr 07 20:53:42 2018].674000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 20:53:42 2018].674000 msDrawMap() total time: 0.031s
+[Sat Apr 07 20:53:42 2018].674000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 20:53:42 2018].674000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sat Apr 07 20:53:42 2018].674000 msFreeMap(): freeing map at 00803828.
+[Sat Apr 07 20:53:44 2018].846000 CGI Request 1 on process 6432
+[Sat Apr 07 20:53:44 2018].846000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 20:53:44 2018].846000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 20:53:44 2018].846000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 20:53:44 2018].846000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 20:53:44 2018].877000 msDrawMap(): Layer 0 (lugares), 0.031s
+[Sat Apr 07 20:53:44 2018].877000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 20:53:44 2018].877000 msDrawMap() total time: 0.031s
+[Sat Apr 07 20:53:44 2018].893000 msSaveImage(stdout) total time: 0.016s
+[Sat Apr 07 20:53:44 2018].893000 mapserv request processing time (msLoadMap not incl.): 0.047s
+[Sat Apr 07 20:53:44 2018].893000 msFreeMap(): freeing map at 01033828.
+[Sat Apr 07 20:54:08 2018].947000 CGI Request 1 on process 6180
+[Sat Apr 07 20:54:08 2018].947000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 20:54:08 2018].947000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 20:54:08 2018].947000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 20:54:08 2018].947000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 20:54:08 2018].978000 msDrawMap(): Layer 0 (lugares), 0.031s
+[Sat Apr 07 20:54:08 2018].978000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 20:54:08 2018].978000 msDrawMap() total time: 0.031s
+[Sat Apr 07 20:54:08 2018].994000 msSaveImage(stdout) total time: 0.016s
+[Sat Apr 07 20:54:08 2018].994000 mapserv request processing time (msLoadMap not incl.): 0.047s
+[Sat Apr 07 20:54:08 2018].994000 msFreeMap(): freeing map at 00D63828.
+[Sat Apr 07 20:54:12 2018].246000 CGI Request 1 on process 4832
+[Sat Apr 07 20:54:12 2018].246000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 20:54:12 2018].246000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 20:54:12 2018].246000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 20:54:12 2018].246000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 20:54:12 2018].277000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sat Apr 07 20:54:12 2018].277000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 20:54:12 2018].277000 msDrawMap() total time: 0.031s
+[Sat Apr 07 20:54:12 2018].277000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 20:54:12 2018].277000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sat Apr 07 20:54:12 2018].277000 msFreeMap(): freeing map at 00E637C8.
+[Sat Apr 07 20:54:15 2018].999000 CGI Request 1 on process 6572
+[Sat Apr 07 20:54:15 2018].999000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 20:54:15 2018].999000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 20:54:15 2018].999000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 20:54:15 2018].999000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 20:54:16 2018].62000 msDrawMap(): Layer 1 (hospedaje), 0.063s
+[Sat Apr 07 20:54:16 2018].62000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 20:54:16 2018].62000 msDrawMap() total time: 0.063s
+[Sat Apr 07 20:54:16 2018].77000 msSaveImage(stdout) total time: 0.015s
+[Sat Apr 07 20:54:16 2018].77000 mapserv request processing time (msLoadMap not incl.): 0.078s
+[Sat Apr 07 20:54:16 2018].77000 msFreeMap(): freeing map at 006C37C8.
+[Sat Apr 07 20:54:16 2018].859000 CGI Request 1 on process 5880
+[Sat Apr 07 20:54:16 2018].859000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 20:54:16 2018].875000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 20:54:16 2018].875000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 20:54:16 2018].875000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 20:54:16 2018].890000 msDrawMap(): Layer 1 (hospedaje), 0.015s
+[Sat Apr 07 20:54:16 2018].906000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sat Apr 07 20:54:16 2018].906000 msDrawMap() total time: 0.047s
+[Sat Apr 07 20:54:16 2018].906000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 20:54:16 2018].906000 mapserv request processing time (msLoadMap not incl.): 0.047s
+[Sat Apr 07 20:54:16 2018].906000 msFreeMap(): freeing map at 005037C8.
+[Sat Apr 07 20:54:25 2018].665000 CGI Request 1 on process 3088
+[Sat Apr 07 20:54:25 2018].665000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 20:54:25 2018].665000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 20:54:25 2018].665000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 20:54:25 2018].665000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 20:54:25 2018].696000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sat Apr 07 20:54:25 2018].696000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 20:54:25 2018].696000 msDrawMap() total time: 0.031s
+[Sat Apr 07 20:54:25 2018].712000 msSaveImage(stdout) total time: 0.016s
+[Sat Apr 07 20:54:25 2018].712000 mapserv request processing time (msLoadMap not incl.): 0.047s
+[Sat Apr 07 20:54:25 2018].712000 msFreeMap(): freeing map at 012937C8.
+[Sat Apr 07 20:55:29 2018].20000 CGI Request 1 on process 4328
+[Sat Apr 07 20:55:29 2018].20000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 20:55:29 2018].20000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 20:55:29 2018].20000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 20:55:29 2018].20000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 20:55:29 2018].51000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sat Apr 07 20:55:29 2018].51000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 20:55:29 2018].51000 msDrawMap() total time: 0.031s
+[Sat Apr 07 20:55:29 2018].66000 msSaveImage(stdout) total time: 0.015s
+[Sat Apr 07 20:55:29 2018].66000 mapserv request processing time (msLoadMap not incl.): 0.046s
+[Sat Apr 07 20:55:29 2018].66000 msFreeMap(): freeing map at 008F37C8.
+[Sat Apr 07 21:03:05 2018].440000 CGI Request 1 on process 6716
+[Sat Apr 07 21:03:05 2018].440000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 21:03:05 2018].440000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 21:03:05 2018].440000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:03:05 2018].440000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:03:05 2018].471000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sat Apr 07 21:03:05 2018].471000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 21:03:05 2018].471000 msDrawMap() total time: 0.031s
+[Sat Apr 07 21:03:05 2018].487000 msSaveImage(stdout) total time: 0.016s
+[Sat Apr 07 21:03:05 2018].487000 mapserv request processing time (msLoadMap not incl.): 0.047s
+[Sat Apr 07 21:03:05 2018].487000 msFreeMap(): freeing map at 007037C8.
+[Sat Apr 07 21:03:16 2018].482000 CGI Request 1 on process 5868
+[Sat Apr 07 21:03:16 2018].482000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 21:03:16 2018].482000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 21:03:16 2018].482000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:03:16 2018].482000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:03:16 2018].513000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sat Apr 07 21:03:16 2018].513000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 21:03:16 2018].513000 msDrawMap() total time: 0.031s
+[Sat Apr 07 21:03:16 2018].513000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 21:03:16 2018].513000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sat Apr 07 21:03:16 2018].513000 msFreeMap(): freeing map at 00BD3CE8.
+[Sat Apr 07 21:03:27 2018].662000 CGI Request 1 on process 5676
+[Sat Apr 07 21:03:27 2018].662000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 21:03:27 2018].662000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 21:03:27 2018].662000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:03:27 2018].662000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:03:27 2018].694000 msDrawMap(): Layer 2 (gastronomia), 0.032s
+[Sat Apr 07 21:03:27 2018].694000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 21:03:27 2018].694000 msDrawMap() total time: 0.032s
+[Sat Apr 07 21:03:27 2018].709000 msSaveImage(stdout) total time: 0.015s
+[Sat Apr 07 21:03:27 2018].709000 mapserv request processing time (msLoadMap not incl.): 0.047s
+[Sat Apr 07 21:03:27 2018].709000 msFreeMap(): freeing map at 012B3D58.
+[Sat Apr 07 21:10:49 2018].709000 CGI Request 1 on process 5952
+[Sat Apr 07 21:10:49 2018].709000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 21:10:49 2018].709000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 21:10:49 2018].709000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:10:49 2018].709000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:10:49 2018].740000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sat Apr 07 21:10:49 2018].740000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 21:10:49 2018].740000 msDrawMap() total time: 0.031s
+[Sat Apr 07 21:10:49 2018].756000 msSaveImage(stdout) total time: 0.016s
+[Sat Apr 07 21:10:49 2018].756000 mapserv request processing time (msLoadMap not incl.): 0.047s
+[Sat Apr 07 21:10:49 2018].756000 msFreeMap(): freeing map at 008536B0.
+[Sat Apr 07 21:11:07 2018].79000 CGI Request 1 on process 6640
+[Sat Apr 07 21:11:07 2018].79000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 21:11:07 2018].79000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 21:11:07 2018].79000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:11:07 2018].79000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:11:07 2018].110000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sat Apr 07 21:11:07 2018].110000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 21:11:07 2018].110000 msDrawMap() total time: 0.031s
+[Sat Apr 07 21:11:07 2018].110000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 21:11:07 2018].110000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sat Apr 07 21:11:07 2018].110000 msFreeMap(): freeing map at 00BF37C8.
+[Sat Apr 07 21:11:10 2018].392000 CGI Request 1 on process 2088
+[Sat Apr 07 21:11:10 2018].392000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 21:11:10 2018].392000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 21:11:10 2018].392000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:11:10 2018].392000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:11:10 2018].428000 msDrawMap(): Layer 3 (naturales), 0.036s
+[Sat Apr 07 21:11:10 2018].428000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 21:11:10 2018].428000 msDrawMap() total time: 0.036s
+[Sat Apr 07 21:11:10 2018].428000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 21:11:10 2018].428000 mapserv request processing time (msLoadMap not incl.): 0.036s
+[Sat Apr 07 21:11:10 2018].428000 msFreeMap(): freeing map at 004D37C8.
+[Sat Apr 07 21:12:01 2018].241000 msyylex(): Unable to access file. Error opening included file "layers/culturales.layer".
+[Sat Apr 07 21:12:01 2018].241000 msLoadMap(): Premature End-of-File. 
+[Sat Apr 07 21:12:01 2018].241000 msFreeMap(): freeing map at 007237C8.
+[Sat Apr 07 21:12:15 2018].345000 CGI Request 1 on process 6700
+[Sat Apr 07 21:12:15 2018].345000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 21:12:15 2018].345000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 21:12:15 2018].345000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:12:15 2018].345000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:12:15 2018].377000 msDrawMap(): Layer 3 (naturales), 0.032s
+[Sat Apr 07 21:12:15 2018].377000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 21:12:15 2018].377000 msDrawMap() total time: 0.032s
+[Sat Apr 07 21:12:15 2018].392000 msSaveImage(stdout) total time: 0.015s
+[Sat Apr 07 21:12:15 2018].392000 mapserv request processing time (msLoadMap not incl.): 0.047s
+[Sat Apr 07 21:12:15 2018].392000 msFreeMap(): freeing map at 00DC37C8.
+[Sat Apr 07 21:12:24 2018].556000 CGI Request 1 on process 3584
+[Sat Apr 07 21:12:24 2018].556000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 21:12:24 2018].556000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 21:12:24 2018].556000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:12:24 2018].556000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:12:24 2018].587000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sat Apr 07 21:12:24 2018].587000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 21:12:24 2018].587000 msDrawMap() total time: 0.031s
+[Sat Apr 07 21:12:24 2018].587000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 21:12:24 2018].587000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sat Apr 07 21:12:24 2018].587000 msFreeMap(): freeing map at 00673CE0.
+[Sat Apr 07 21:14:18 2018].912000 CGI Request 1 on process 5192
+[Sat Apr 07 21:14:18 2018].912000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 21:14:18 2018].912000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 21:14:18 2018].912000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:14:18 2018].912000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:14:18 2018].943000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sat Apr 07 21:14:18 2018].943000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 21:14:18 2018].943000 msDrawMap() total time: 0.031s
+[Sat Apr 07 21:14:18 2018].943000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 21:14:18 2018].943000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sat Apr 07 21:14:18 2018].943000 msFreeMap(): freeing map at 008B3D40.
+[Sat Apr 07 21:14:19 2018].803000 CGI Request 1 on process 3976
+[Sat Apr 07 21:14:19 2018].803000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 21:14:19 2018].803000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 21:14:19 2018].803000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:14:19 2018].803000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:14:19 2018].834000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sat Apr 07 21:14:19 2018].834000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 21:14:19 2018].834000 msDrawMap() total time: 0.031s
+[Sat Apr 07 21:14:19 2018].834000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 21:14:19 2018].834000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sat Apr 07 21:14:19 2018].834000 msFreeMap(): freeing map at 007D3D40.
+[Sat Apr 07 21:14:27 2018].465000 CGI Request 1 on process 5820
+[Sat Apr 07 21:14:27 2018].465000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 21:14:27 2018].465000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 21:14:27 2018].465000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:14:27 2018].465000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:14:27 2018].496000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sat Apr 07 21:14:27 2018].496000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 21:14:27 2018].496000 msDrawMap() total time: 0.031s
+[Sat Apr 07 21:14:27 2018].496000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 21:14:27 2018].496000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sat Apr 07 21:14:27 2018].496000 msFreeMap(): freeing map at 01233D40.
+[Sat Apr 07 21:15:26 2018].142000 CGI Request 1 on process 5364
+[Sat Apr 07 21:15:26 2018].142000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sat Apr 07 21:15:26 2018].142000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sat Apr 07 21:15:26 2018].142000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:15:26 2018].142000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:15:26 2018].173000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sat Apr 07 21:15:26 2018].173000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 21:15:26 2018].173000 msDrawMap() total time: 0.031s
+[Sat Apr 07 21:15:26 2018].173000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 21:15:26 2018].173000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sat Apr 07 21:15:26 2018].173000 msFreeMap(): freeing map at 01193CE8.
+[Sat Apr 07 21:21:07 2018].418000 CGI Request 1 on process 3848
+[Sat Apr 07 21:21:08 2018].12000 mapserv request processing time (msLoadMap not incl.): 0.594s
+[Sat Apr 07 21:21:08 2018].12000 msFreeMap(): freeing map at 00BA2318.
+[Sat Apr 07 21:21:38 2018].960000 CGI Request 1 on process 5648
+[Sat Apr 07 21:21:38 2018].960000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:21:38 2018].960000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:21:38 2018].976000 msDrawMap(): Layer 0 (lugares), 0.016s
+[Sat Apr 07 21:21:39 2018].7000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sat Apr 07 21:21:39 2018].22000 msDrawMap(): Drawing Label Cache, 0.015s
+[Sat Apr 07 21:21:39 2018].22000 msDrawMap() total time: 0.062s
+[Sat Apr 07 21:21:39 2018].22000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 21:21:39 2018].22000 mapserv request processing time (msLoadMap not incl.): 0.062s
+[Sat Apr 07 21:21:39 2018].22000 msFreeMap(): freeing map at 00794FE8.
+[Sat Apr 07 21:21:38 2018].835000 CGI Request 1 on process 4632
+[Sat Apr 07 21:21:38 2018].851000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:21:38 2018].851000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:21:38 2018].944000 msDrawMap(): Layer 0 (lugares), 0.093s
+[Sat Apr 07 21:21:38 2018].976000 msDrawMap(): Layer 1 (hospedaje), 0.032s
+[Sat Apr 07 21:21:38 2018].991000 msDrawMap(): Drawing Label Cache, 0.015s
+[Sat Apr 07 21:21:38 2018].991000 msDrawMap() total time: 0.156s
+[Sat Apr 07 21:21:39 2018].38000 msSaveImage(stdout) total time: 0.047s
+[Sat Apr 07 21:21:39 2018].38000 mapserv request processing time (msLoadMap not incl.): 0.203s
+[Sat Apr 07 21:21:39 2018].38000 msFreeMap(): freeing map at 00BA61B0.
+[Sat Apr 07 21:23:28 2018].90000 CGI Request 1 on process 4576
+[Sat Apr 07 21:23:28 2018].90000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:23:28 2018].90000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:23:28 2018].121000 msDrawMap(): Layer 0 (lugares), 0.031s
+[Sat Apr 07 21:23:28 2018].152000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sat Apr 07 21:23:28 2018].184000 msDrawMap(): Layer 2 (gastronomia), 0.032s
+[Sat Apr 07 21:23:28 2018].215000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sat Apr 07 21:23:28 2018].246000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sat Apr 07 21:23:28 2018].277000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sat Apr 07 21:23:28 2018].277000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 21:23:28 2018].277000 msDrawMap() total time: 0.187s
+[Sat Apr 07 21:23:28 2018].340000 msSaveImage(stdout) total time: 0.063s
+[Sat Apr 07 21:23:28 2018].340000 mapserv request processing time (msLoadMap not incl.): 0.250s
+[Sat Apr 07 21:23:28 2018].340000 msFreeMap(): freeing map at 00F96898.
+[Sat Apr 07 21:23:28 2018].199000 CGI Request 1 on process 5256
+[Sat Apr 07 21:23:28 2018].199000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:23:28 2018].199000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:23:28 2018].230000 msDrawMap(): Layer 0 (lugares), 0.031s
+[Sat Apr 07 21:23:28 2018].262000 msDrawMap(): Layer 1 (hospedaje), 0.032s
+[Sat Apr 07 21:23:28 2018].293000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sat Apr 07 21:23:28 2018].324000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sat Apr 07 21:23:28 2018].355000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sat Apr 07 21:23:28 2018].371000 msDrawMap(): Layer 5 (artesanales), 0.016s
+[Sat Apr 07 21:23:28 2018].371000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 21:23:28 2018].371000 msDrawMap() total time: 0.172s
+[Sat Apr 07 21:23:28 2018].387000 msSaveImage(stdout) total time: 0.016s
+[Sat Apr 07 21:23:28 2018].387000 mapserv request processing time (msLoadMap not incl.): 0.188s
+[Sat Apr 07 21:23:28 2018].387000 msFreeMap(): freeing map at 012F63F0.
+[Sat Apr 07 21:23:41 2018].658000 CGI Request 1 on process 6108
+[Sat Apr 07 21:23:41 2018].658000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:23:41 2018].658000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:23:41 2018].689000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sat Apr 07 21:23:41 2018].721000 msDrawMap(): Layer 2 (gastronomia), 0.032s
+[Sat Apr 07 21:23:41 2018].752000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sat Apr 07 21:23:41 2018].783000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sat Apr 07 21:23:41 2018].814000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sat Apr 07 21:23:41 2018].830000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sat Apr 07 21:23:41 2018].830000 msDrawMap() total time: 0.172s
+[Sat Apr 07 21:23:41 2018].877000 msSaveImage(stdout) total time: 0.047s
+[Sat Apr 07 21:23:41 2018].877000 mapserv request processing time (msLoadMap not incl.): 0.219s
+[Sat Apr 07 21:23:41 2018].877000 msFreeMap(): freeing map at 005E65C0.
+[Sat Apr 07 21:23:41 2018].783000 CGI Request 1 on process 6192
+[Sat Apr 07 21:23:41 2018].783000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:23:41 2018].783000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:23:41 2018].814000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sat Apr 07 21:23:41 2018].846000 msDrawMap(): Layer 2 (gastronomia), 0.032s
+[Sat Apr 07 21:23:41 2018].861000 msDrawMap(): Layer 3 (naturales), 0.015s
+[Sat Apr 07 21:23:41 2018].893000 msDrawMap(): Layer 4 (culturales), 0.032s
+[Sat Apr 07 21:23:41 2018].939000 msDrawMap(): Layer 5 (artesanales), 0.046s
+[Sat Apr 07 21:23:41 2018].939000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 21:23:41 2018].939000 msDrawMap() total time: 0.156s
+[Sat Apr 07 21:23:41 2018].939000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 21:23:41 2018].939000 mapserv request processing time (msLoadMap not incl.): 0.156s
+[Sat Apr 07 21:23:41 2018].939000 msFreeMap(): freeing map at 00E56300.
+[Sat Apr 07 21:23:46 2018].40000 CGI Request 1 on process 7088
+[Sat Apr 07 21:23:46 2018].40000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:23:46 2018].40000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:23:46 2018].134000 msDrawMap(): Layer 1 (hospedaje), 0.094s
+[Sat Apr 07 21:23:46 2018].150000 msDrawMap(): Layer 2 (gastronomia), 0.016s
+[Sat Apr 07 21:23:46 2018].181000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sat Apr 07 21:23:46 2018].212000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sat Apr 07 21:23:46 2018].228000 msDrawMap(): Layer 5 (artesanales), 0.016s
+[Sat Apr 07 21:23:46 2018].243000 msDrawMap(): Drawing Label Cache, 0.015s
+[Sat Apr 07 21:23:46 2018].243000 msDrawMap() total time: 0.203s
+[Sat Apr 07 21:23:46 2018].290000 msSaveImage(stdout) total time: 0.047s
+[Sat Apr 07 21:23:46 2018].290000 mapserv request processing time (msLoadMap not incl.): 0.250s
+[Sat Apr 07 21:23:46 2018].290000 msFreeMap(): freeing map at 006868C8.
+[Sat Apr 07 21:23:47 2018].353000 CGI Request 1 on process 2732
+[Sat Apr 07 21:23:47 2018].353000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:23:47 2018].353000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:23:47 2018].384000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sat Apr 07 21:23:47 2018].415000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sat Apr 07 21:23:47 2018].447000 msDrawMap(): Layer 3 (naturales), 0.032s
+[Sat Apr 07 21:23:47 2018].462000 msDrawMap(): Layer 4 (culturales), 0.015s
+[Sat Apr 07 21:23:47 2018].493000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sat Apr 07 21:23:47 2018].509000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sat Apr 07 21:23:47 2018].509000 msDrawMap() total time: 0.156s
+[Sat Apr 07 21:23:47 2018].556000 msSaveImage(stdout) total time: 0.047s
+[Sat Apr 07 21:23:47 2018].556000 mapserv request processing time (msLoadMap not incl.): 0.203s
+[Sat Apr 07 21:23:47 2018].556000 msFreeMap(): freeing map at 00CF68C8.
+[Sat Apr 07 21:23:49 2018].776000 CGI Request 1 on process 7084
+[Sat Apr 07 21:23:49 2018].776000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:23:49 2018].776000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:23:49 2018].807000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sat Apr 07 21:23:49 2018].870000 msDrawMap(): Layer 2 (gastronomia), 0.063s
+[Sat Apr 07 21:23:49 2018].901000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sat Apr 07 21:23:49 2018].916000 msDrawMap(): Layer 4 (culturales), 0.015s
+[Sat Apr 07 21:23:49 2018].948000 msDrawMap(): Layer 5 (artesanales), 0.032s
+[Sat Apr 07 21:23:49 2018].963000 msDrawMap(): Drawing Label Cache, 0.015s
+[Sat Apr 07 21:23:49 2018].963000 msDrawMap() total time: 0.187s
+[Sat Apr 07 21:23:49 2018].995000 msSaveImage(stdout) total time: 0.032s
+[Sat Apr 07 21:23:50 2018].10000 mapserv request processing time (msLoadMap not incl.): 0.234s
+[Sat Apr 07 21:23:50 2018].10000 msFreeMap(): freeing map at 00E065C0.
+[Sat Apr 07 21:24:04 2018].557000 CGI Request 1 on process 3088
+[Sat Apr 07 21:24:04 2018].559000 msSaveImage(stdout) total time: 0.001s
+[Sat Apr 07 21:24:04 2018].559000 mapserv request processing time (msLoadMap not incl.): 0.002s
+[Sat Apr 07 21:24:04 2018].559000 msFreeMap(): freeing map at 011A4768.
+[Sat Apr 07 21:24:04 2018].558000 CGI Request 1 on process 2612
+[Sat Apr 07 21:24:04 2018].559000 msSaveImage(stdout) total time: 0.001s
+[Sat Apr 07 21:24:04 2018].559000 mapserv request processing time (msLoadMap not incl.): 0.001s
+[Sat Apr 07 21:24:04 2018].559000 msFreeMap(): freeing map at 01234720.
+[Sat Apr 07 21:24:04 2018].560000 CGI Request 1 on process 6752
+[Sat Apr 07 21:24:04 2018].561000 msSaveImage(stdout) total time: 0.001s
+[Sat Apr 07 21:24:04 2018].561000 mapserv request processing time (msLoadMap not incl.): 0.001s
+[Sat Apr 07 21:24:04 2018].561000 msFreeMap(): freeing map at 00D04768.
+[Sat Apr 07 21:24:04 2018].560000 CGI Request 1 on process 7160
+[Sat Apr 07 21:24:04 2018].562000 msSaveImage(stdout) total time: 0.001s
+[Sat Apr 07 21:24:04 2018].562000 mapserv request processing time (msLoadMap not incl.): 0.002s
+[Sat Apr 07 21:24:04 2018].562000 msFreeMap(): freeing map at 00FD4720.
+[Sat Apr 07 21:24:04 2018].560000 CGI Request 1 on process 6260
+[Sat Apr 07 21:24:04 2018].563000 msSaveImage(stdout) total time: 0.002s
+[Sat Apr 07 21:24:04 2018].563000 mapserv request processing time (msLoadMap not incl.): 0.003s
+[Sat Apr 07 21:24:04 2018].563000 msFreeMap(): freeing map at 01294720.
+[Sat Apr 07 21:24:46 2018].868000 CGI Request 1 on process 5084
+[Sat Apr 07 21:24:46 2018].868000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:24:46 2018].868000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:24:46 2018].899000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sat Apr 07 21:24:46 2018].915000 msDrawMap(): Layer 2 (gastronomia), 0.016s
+[Sat Apr 07 21:24:46 2018].946000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sat Apr 07 21:24:46 2018].993000 msDrawMap(): Layer 4 (culturales), 0.047s
+[Sat Apr 07 21:24:47 2018].24000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sat Apr 07 21:24:47 2018].24000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sat Apr 07 21:24:47 2018].24000 msDrawMap() total time: 0.156s
+[Sat Apr 07 21:24:47 2018].71000 msSaveImage(stdout) total time: 0.047s
+[Sat Apr 07 21:24:47 2018].71000 mapserv request processing time (msLoadMap not incl.): 0.203s
+[Sat Apr 07 21:24:47 2018].71000 msFreeMap(): freeing map at 00CE6870.
+[Sat Apr 07 21:24:46 2018].977000 CGI Request 1 on process 7012
+[Sat Apr 07 21:24:46 2018].977000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sat Apr 07 21:24:46 2018].977000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sat Apr 07 21:24:47 2018].8000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sat Apr 07 21:24:47 2018].40000 msDrawMap(): Layer 2 (gastronomia), 0.032s
+[Sat Apr 07 21:24:47 2018].55000 msDrawMap(): Layer 3 (naturales), 0.015s
+[Sat Apr 07 21:24:47 2018].86000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sat Apr 07 21:24:47 2018].118000 msDrawMap(): Layer 5 (artesanales), 0.032s
+[Sat Apr 07 21:24:47 2018].133000 msDrawMap(): Drawing Label Cache, 0.015s
+[Sat Apr 07 21:24:47 2018].133000 msDrawMap() total time: 0.156s
+[Sat Apr 07 21:24:47 2018].133000 msSaveImage(stdout) total time: 0.000s
+[Sat Apr 07 21:24:47 2018].133000 mapserv request processing time (msLoadMap not incl.): 0.156s
+[Sat Apr 07 21:24:47 2018].133000 msFreeMap(): freeing map at 00BC63D8.
+[Sat Apr 07 21:24:54 2018].276000 CGI Request 1 on process 2756
+[Sat Apr 07 21:24:54 2018].279000 msSaveImage(stdout) total time: 0.002s
+[Sat Apr 07 21:24:54 2018].279000 mapserv request processing time (msLoadMap not incl.): 0.003s
+[Sat Apr 07 21:24:54 2018].279000 msFreeMap(): freeing map at 00B24898.
+[Sat Apr 07 21:24:54 2018].414000 CGI Request 1 on process 3428
+[Sat Apr 07 21:24:54 2018].416000 msSaveImage(stdout) total time: 0.001s
+[Sat Apr 07 21:24:54 2018].416000 mapserv request processing time (msLoadMap not incl.): 0.002s
+[Sat Apr 07 21:24:54 2018].416000 msFreeMap(): freeing map at 00914858.
+[Sat Apr 07 21:24:54 2018].415000 CGI Request 1 on process 6896
+[Sat Apr 07 21:24:54 2018].417000 msSaveImage(stdout) total time: 0.002s
+[Sat Apr 07 21:24:54 2018].417000 mapserv request processing time (msLoadMap not incl.): 0.002s
+[Sat Apr 07 21:24:54 2018].417000 msFreeMap(): freeing map at 01174830.
+[Sat Apr 07 21:24:54 2018].417000 CGI Request 1 on process 2204
+[Sat Apr 07 21:24:54 2018].419000 msSaveImage(stdout) total time: 0.001s
+[Sat Apr 07 21:24:54 2018].420000 mapserv request processing time (msLoadMap not incl.): 0.003s
+[Sat Apr 07 21:24:54 2018].420000 msFreeMap(): freeing map at 00884898.
+[Sat Apr 07 21:24:54 2018].418000 CGI Request 1 on process 5244
+[Sat Apr 07 21:24:54 2018].420000 msSaveImage(stdout) total time: 0.001s
+[Sat Apr 07 21:24:54 2018].420000 mapserv request processing time (msLoadMap not incl.): 0.002s
+[Sat Apr 07 21:24:54 2018].420000 msFreeMap(): freeing map at 00554830.
+[Sun Apr 08 16:15:22 2018].761000 CGI Request 1 on process 1220
+[Sun Apr 08 16:15:22 2018].761000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:15:22 2018].761000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:15:23 2018].886000 msDrawMap(): Layer 1 (hospedaje), 1.125s
+[Sun Apr 08 16:15:23 2018].964000 msDrawMap(): Layer 2 (gastronomia), 0.078s
+[Sun Apr 08 16:15:24 2018].42000 msDrawMap(): Layer 3 (naturales), 0.078s
+[Sun Apr 08 16:15:24 2018].105000 msDrawMap(): Layer 4 (culturales), 0.063s
+[Sun Apr 08 16:15:24 2018].151000 msDrawMap(): Layer 5 (artesanales), 0.046s
+[Sun Apr 08 16:15:24 2018].183000 msDrawMap(): Drawing Label Cache, 0.032s
+[Sun Apr 08 16:15:24 2018].183000 msDrawMap() total time: 1.422s
+[Sun Apr 08 16:15:24 2018].198000 msSaveImage(stdout) total time: 0.015s
+[Sun Apr 08 16:15:24 2018].198000 mapserv request processing time (msLoadMap not incl.): 1.437s
+[Sun Apr 08 16:15:24 2018].198000 msFreeMap(): freeing map at 012363D8.
+[Sun Apr 08 16:15:22 2018].761000 CGI Request 1 on process 7320
+[Sun Apr 08 16:15:22 2018].761000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:15:22 2018].761000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:15:23 2018].886000 msDrawMap(): Layer 1 (hospedaje), 1.125s
+[Sun Apr 08 16:15:23 2018].964000 msDrawMap(): Layer 2 (gastronomia), 0.078s
+[Sun Apr 08 16:15:24 2018].42000 msDrawMap(): Layer 3 (naturales), 0.078s
+[Sun Apr 08 16:15:24 2018].105000 msDrawMap(): Layer 4 (culturales), 0.063s
+[Sun Apr 08 16:15:24 2018].151000 msDrawMap(): Layer 5 (artesanales), 0.046s
+[Sun Apr 08 16:15:24 2018].198000 msDrawMap(): Drawing Label Cache, 0.047s
+[Sun Apr 08 16:15:24 2018].198000 msDrawMap() total time: 1.437s
+[Sun Apr 08 16:15:24 2018].230000 msSaveImage(stdout) total time: 0.032s
+[Sun Apr 08 16:15:24 2018].230000 mapserv request processing time (msLoadMap not incl.): 1.469s
+[Sun Apr 08 16:15:24 2018].230000 msFreeMap(): freeing map at 00E465C0.
+[Sun Apr 08 16:15:47 2018].72000 CGI Request 1 on process 8068
+[Sun Apr 08 16:15:47 2018].104000 msSaveImage(stdout) total time: 0.001s
+[Sun Apr 08 16:15:47 2018].104000 mapserv request processing time (msLoadMap not incl.): 0.032s
+[Sun Apr 08 16:15:47 2018].104000 msFreeMap(): freeing map at 00D84830.
+[Sun Apr 08 16:15:47 2018].73000 CGI Request 1 on process 7820
+[Sun Apr 08 16:15:47 2018].104000 msSaveImage(stdout) total time: 0.001s
+[Sun Apr 08 16:15:47 2018].104000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sun Apr 08 16:15:47 2018].104000 msFreeMap(): freeing map at 01094898.
+[Sun Apr 08 16:15:47 2018].73000 CGI Request 1 on process 8128
+[Sun Apr 08 16:15:47 2018].105000 msSaveImage(stdout) total time: 0.002s
+[Sun Apr 08 16:15:47 2018].105000 mapserv request processing time (msLoadMap not incl.): 0.032s
+[Sun Apr 08 16:15:47 2018].105000 msFreeMap(): freeing map at 005D4858.
+[Sun Apr 08 16:15:47 2018].72000 CGI Request 1 on process 6648
+[Sun Apr 08 16:15:47 2018].105000 msSaveImage(stdout) total time: 0.002s
+[Sun Apr 08 16:15:47 2018].105000 mapserv request processing time (msLoadMap not incl.): 0.033s
+[Sun Apr 08 16:15:47 2018].105000 msFreeMap(): freeing map at 00684898.
+[Sun Apr 08 16:15:47 2018].73000 CGI Request 1 on process 7384
+[Sun Apr 08 16:15:47 2018].105000 msSaveImage(stdout) total time: 0.002s
+[Sun Apr 08 16:15:47 2018].105000 mapserv request processing time (msLoadMap not incl.): 0.032s
+[Sun Apr 08 16:15:47 2018].105000 msFreeMap(): freeing map at 004D4830.
+[Sun Apr 08 16:19:56 2018].308000 CGI Request 1 on process 7616
+[Sun Apr 08 16:19:56 2018].324000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:19:56 2018].324000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:19:56 2018].355000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sun Apr 08 16:19:56 2018].371000 msDrawMap(): Layer 2 (gastronomia), 0.016s
+[Sun Apr 08 16:19:56 2018].417000 msDrawMap(): Layer 3 (naturales), 0.046s
+[Sun Apr 08 16:19:56 2018].449000 msDrawMap(): Layer 4 (culturales), 0.032s
+[Sun Apr 08 16:19:56 2018].480000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:19:56 2018].480000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sun Apr 08 16:19:56 2018].480000 msDrawMap() total time: 0.172s
+[Sun Apr 08 16:19:56 2018].527000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:19:56 2018].527000 mapserv request processing time (msLoadMap not incl.): 0.219s
+[Sun Apr 08 16:19:56 2018].527000 msFreeMap(): freeing map at 002C65C0.
+[Sun Apr 08 16:19:56 2018].433000 CGI Request 1 on process 7836
+[Sun Apr 08 16:19:56 2018].433000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:19:56 2018].433000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:19:56 2018].464000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sun Apr 08 16:19:56 2018].480000 msDrawMap(): Layer 2 (gastronomia), 0.016s
+[Sun Apr 08 16:19:56 2018].511000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sun Apr 08 16:19:56 2018].542000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sun Apr 08 16:19:56 2018].574000 msDrawMap(): Layer 5 (artesanales), 0.032s
+[Sun Apr 08 16:19:56 2018].574000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sun Apr 08 16:19:56 2018].574000 msDrawMap() total time: 0.141s
+[Sun Apr 08 16:19:56 2018].589000 msSaveImage(stdout) total time: 0.015s
+[Sun Apr 08 16:19:56 2018].589000 mapserv request processing time (msLoadMap not incl.): 0.172s
+[Sun Apr 08 16:19:56 2018].589000 msFreeMap(): freeing map at 00C763D8.
+[Sun Apr 08 16:20:06 2018].925000 CGI Request 1 on process 1740
+[Sun Apr 08 16:20:06 2018].925000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:20:06 2018].925000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:20:06 2018].957000 msDrawMap(): Layer 1 (hospedaje), 0.032s
+[Sun Apr 08 16:20:06 2018].988000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:20:07 2018].19000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sun Apr 08 16:20:07 2018].35000 msDrawMap(): Layer 4 (culturales), 0.016s
+[Sun Apr 08 16:20:07 2018].66000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:20:07 2018].82000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sun Apr 08 16:20:07 2018].82000 msDrawMap() total time: 0.157s
+[Sun Apr 08 16:20:07 2018].113000 msSaveImage(stdout) total time: 0.031s
+[Sun Apr 08 16:20:07 2018].113000 mapserv request processing time (msLoadMap not incl.): 0.188s
+[Sun Apr 08 16:20:07 2018].113000 msFreeMap(): freeing map at 007F68C8.
+[Sun Apr 08 16:20:16 2018].367000 CGI Request 1 on process 7464
+[Sun Apr 08 16:20:16 2018].367000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:20:16 2018].367000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:20:16 2018].398000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sun Apr 08 16:20:16 2018].429000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:20:16 2018].460000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sun Apr 08 16:20:16 2018].476000 msDrawMap(): Layer 4 (culturales), 0.016s
+[Sun Apr 08 16:20:16 2018].507000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:20:16 2018].523000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sun Apr 08 16:20:16 2018].523000 msDrawMap() total time: 0.156s
+[Sun Apr 08 16:20:16 2018].554000 msSaveImage(stdout) total time: 0.031s
+[Sun Apr 08 16:20:16 2018].554000 mapserv request processing time (msLoadMap not incl.): 0.187s
+[Sun Apr 08 16:20:16 2018].554000 msFreeMap(): freeing map at 011D68C8.
+[Sun Apr 08 16:20:21 2018].777000 CGI Request 1 on process 6000
+[Sun Apr 08 16:20:21 2018].777000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:20:21 2018].777000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:20:21 2018].808000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sun Apr 08 16:20:21 2018].839000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:20:21 2018].871000 msDrawMap(): Layer 3 (naturales), 0.032s
+[Sun Apr 08 16:20:21 2018].886000 msDrawMap(): Layer 4 (culturales), 0.015s
+[Sun Apr 08 16:20:21 2018].917000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:20:21 2018].933000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sun Apr 08 16:20:21 2018].933000 msDrawMap() total time: 0.156s
+[Sun Apr 08 16:20:21 2018].980000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:20:21 2018].980000 mapserv request processing time (msLoadMap not incl.): 0.203s
+[Sun Apr 08 16:20:21 2018].980000 msFreeMap(): freeing map at 00B066B0.
+[Sun Apr 08 16:20:29 2018].903000 CGI Request 1 on process 6648
+[Sun Apr 08 16:20:29 2018].918000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:20:29 2018].918000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:20:29 2018].949000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sun Apr 08 16:20:29 2018].981000 msDrawMap(): Layer 2 (gastronomia), 0.032s
+[Sun Apr 08 16:20:30 2018].12000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sun Apr 08 16:20:30 2018].28000 msDrawMap(): Layer 4 (culturales), 0.016s
+[Sun Apr 08 16:20:30 2018].59000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:20:30 2018].74000 msDrawMap(): Drawing Label Cache, 0.015s
+[Sun Apr 08 16:20:30 2018].74000 msDrawMap() total time: 0.171s
+[Sun Apr 08 16:20:30 2018].137000 msSaveImage(stdout) total time: 0.063s
+[Sun Apr 08 16:20:30 2018].137000 mapserv request processing time (msLoadMap not incl.): 0.234s
+[Sun Apr 08 16:20:30 2018].137000 msFreeMap(): freeing map at 00EB65C0.
+[Sun Apr 08 16:21:15 2018].782000 CGI Request 1 on process 2892
+[Sun Apr 08 16:21:15 2018].782000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:21:15 2018].782000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:21:15 2018].813000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sun Apr 08 16:21:15 2018].844000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:21:15 2018].876000 msDrawMap(): Layer 3 (naturales), 0.032s
+[Sun Apr 08 16:21:15 2018].922000 msDrawMap(): Layer 4 (culturales), 0.046s
+[Sun Apr 08 16:21:15 2018].969000 msDrawMap(): Layer 5 (artesanales), 0.047s
+[Sun Apr 08 16:21:15 2018].985000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sun Apr 08 16:21:15 2018].985000 msDrawMap() total time: 0.203s
+[Sun Apr 08 16:21:16 2018].32000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:21:16 2018].32000 mapserv request processing time (msLoadMap not incl.): 0.250s
+[Sun Apr 08 16:21:16 2018].32000 msFreeMap(): freeing map at 00B365B8.
+[Sun Apr 08 16:21:15 2018].891000 CGI Request 1 on process 5528
+[Sun Apr 08 16:21:15 2018].891000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:21:15 2018].891000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:21:15 2018].954000 msDrawMap(): Layer 1 (hospedaje), 0.063s
+[Sun Apr 08 16:21:15 2018].985000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:21:16 2018].1000 msDrawMap(): Layer 3 (naturales), 0.016s
+[Sun Apr 08 16:21:16 2018].32000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sun Apr 08 16:21:16 2018].63000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:21:16 2018].63000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sun Apr 08 16:21:16 2018].63000 msDrawMap() total time: 0.172s
+[Sun Apr 08 16:21:16 2018].63000 msSaveImage(stdout) total time: 0.000s
+[Sun Apr 08 16:21:16 2018].63000 mapserv request processing time (msLoadMap not incl.): 0.172s
+[Sun Apr 08 16:21:16 2018].63000 msFreeMap(): freeing map at 00D663D8.
+[Sun Apr 08 16:21:34 2018].581000 CGI Request 1 on process 6252
+[Sun Apr 08 16:21:34 2018].596000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:21:34 2018].596000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:21:34 2018].612000 msDrawMap(): Layer 1 (hospedaje), 0.016s
+[Sun Apr 08 16:21:34 2018].643000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:21:34 2018].674000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sun Apr 08 16:21:34 2018].721000 msDrawMap(): Layer 4 (culturales), 0.047s
+[Sun Apr 08 16:21:34 2018].753000 msDrawMap(): Layer 5 (artesanales), 0.032s
+[Sun Apr 08 16:21:34 2018].753000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sun Apr 08 16:21:34 2018].753000 msDrawMap() total time: 0.172s
+[Sun Apr 08 16:21:34 2018].815000 msSaveImage(stdout) total time: 0.062s
+[Sun Apr 08 16:21:34 2018].815000 mapserv request processing time (msLoadMap not incl.): 0.234s
+[Sun Apr 08 16:21:34 2018].815000 msFreeMap(): freeing map at 00B168C8.
+[Sun Apr 08 16:21:34 2018].690000 CGI Request 1 on process 5228
+[Sun Apr 08 16:21:34 2018].706000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:21:34 2018].706000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:21:34 2018].737000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sun Apr 08 16:21:34 2018].768000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:21:34 2018].784000 msDrawMap(): Layer 3 (naturales), 0.016s
+[Sun Apr 08 16:21:34 2018].815000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sun Apr 08 16:21:34 2018].846000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:21:34 2018].862000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sun Apr 08 16:21:34 2018].862000 msDrawMap() total time: 0.156s
+[Sun Apr 08 16:21:34 2018].862000 msSaveImage(stdout) total time: 0.000s
+[Sun Apr 08 16:21:34 2018].862000 mapserv request processing time (msLoadMap not incl.): 0.172s
+[Sun Apr 08 16:21:34 2018].862000 msFreeMap(): freeing map at 00F663D8.
+[Sun Apr 08 16:21:47 2018].929000 CGI Request 1 on process 5404
+[Sun Apr 08 16:21:47 2018].929000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:21:47 2018].929000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:21:47 2018].960000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sun Apr 08 16:21:47 2018].991000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:21:48 2018].23000 msDrawMap(): Layer 3 (naturales), 0.032s
+[Sun Apr 08 16:21:48 2018].54000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sun Apr 08 16:21:48 2018].70000 msDrawMap(): Layer 5 (artesanales), 0.016s
+[Sun Apr 08 16:21:48 2018].85000 msDrawMap(): Drawing Label Cache, 0.015s
+[Sun Apr 08 16:21:48 2018].85000 msDrawMap() total time: 0.156s
+[Sun Apr 08 16:21:48 2018].132000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:21:48 2018].132000 mapserv request processing time (msLoadMap not incl.): 0.203s
+[Sun Apr 08 16:21:48 2018].132000 msFreeMap(): freeing map at 00E268C8.
+[Sun Apr 08 16:21:50 2018].433000 CGI Request 1 on process 7740
+[Sun Apr 08 16:21:50 2018].433000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:21:50 2018].433000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:21:50 2018].526000 msDrawMap(): Layer 1 (hospedaje), 0.093s
+[Sun Apr 08 16:21:50 2018].558000 msDrawMap(): Layer 2 (gastronomia), 0.032s
+[Sun Apr 08 16:21:50 2018].589000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sun Apr 08 16:21:50 2018].604000 msDrawMap(): Layer 4 (culturales), 0.015s
+[Sun Apr 08 16:21:50 2018].636000 msDrawMap(): Layer 5 (artesanales), 0.032s
+[Sun Apr 08 16:21:50 2018].651000 msDrawMap(): Drawing Label Cache, 0.015s
+[Sun Apr 08 16:21:50 2018].651000 msDrawMap() total time: 0.218s
+[Sun Apr 08 16:21:50 2018].698000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:21:50 2018].698000 mapserv request processing time (msLoadMap not incl.): 0.265s
+[Sun Apr 08 16:21:50 2018].698000 msFreeMap(): freeing map at 00CE68B0.
+[Sun Apr 08 16:21:52 2018].628000 CGI Request 1 on process 6632
+[Sun Apr 08 16:21:52 2018].644000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:21:52 2018].644000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:21:52 2018].737000 msDrawMap(): Layer 1 (hospedaje), 0.093s
+[Sun Apr 08 16:21:52 2018].753000 msDrawMap(): Layer 2 (gastronomia), 0.016s
+[Sun Apr 08 16:21:52 2018].784000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sun Apr 08 16:21:52 2018].816000 msDrawMap(): Layer 4 (culturales), 0.032s
+[Sun Apr 08 16:21:52 2018].847000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:21:52 2018].847000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sun Apr 08 16:21:52 2018].847000 msDrawMap() total time: 0.219s
+[Sun Apr 08 16:21:52 2018].894000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:21:52 2018].894000 mapserv request processing time (msLoadMap not incl.): 0.266s
+[Sun Apr 08 16:21:52 2018].894000 msFreeMap(): freeing map at 004968C8.
+[Sun Apr 08 16:22:24 2018].210000 CGI Request 1 on process 6684
+[Sun Apr 08 16:22:24 2018].366000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Sun Apr 08 16:22:24 2018].413000 mapserv request processing time (msLoadMap not incl.): 0.203s
+[Sun Apr 08 16:22:24 2018].413000 msFreeMap(): freeing map at 00496048.
+[Sun Apr 08 16:22:39 2018].15000 CGI Request 1 on process 3688
+[Sun Apr 08 16:22:39 2018].156000 mapserv request processing time (msLoadMap not incl.): 0.141s
+[Sun Apr 08 16:22:39 2018].156000 msFreeMap(): freeing map at 00506048.
+[Sun Apr 08 16:23:27 2018].837000 CGI Request 1 on process 8092
+[Sun Apr 08 16:23:27 2018].837000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:23:27 2018].837000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:23:27 2018].868000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sun Apr 08 16:23:27 2018].899000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:23:27 2018].930000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sun Apr 08 16:23:27 2018].962000 msDrawMap(): Layer 4 (culturales), 0.032s
+[Sun Apr 08 16:23:27 2018].993000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:23:28 2018].8000 msDrawMap(): Drawing Label Cache, 0.015s
+[Sun Apr 08 16:23:28 2018].8000 msDrawMap() total time: 0.171s
+[Sun Apr 08 16:23:28 2018].55000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:23:28 2018].55000 mapserv request processing time (msLoadMap not incl.): 0.218s
+[Sun Apr 08 16:23:28 2018].55000 msFreeMap(): freeing map at 00B268C8.
+[Sun Apr 08 16:23:27 2018].962000 CGI Request 1 on process 2492
+[Sun Apr 08 16:23:27 2018].962000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:23:27 2018].962000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:23:27 2018].993000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sun Apr 08 16:23:28 2018].24000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:23:28 2018].40000 msDrawMap(): Layer 3 (naturales), 0.016s
+[Sun Apr 08 16:23:28 2018].71000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sun Apr 08 16:23:28 2018].118000 msDrawMap(): Layer 5 (artesanales), 0.047s
+[Sun Apr 08 16:23:28 2018].118000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sun Apr 08 16:23:28 2018].118000 msDrawMap() total time: 0.156s
+[Sun Apr 08 16:23:28 2018].118000 msSaveImage(stdout) total time: 0.000s
+[Sun Apr 08 16:23:28 2018].118000 mapserv request processing time (msLoadMap not incl.): 0.156s
+[Sun Apr 08 16:23:28 2018].118000 msFreeMap(): freeing map at 005163D8.
+[Sun Apr 08 16:24:47 2018].36000 CGI Request 1 on process 7944
+[Sun Apr 08 16:24:47 2018].130000 mapserv request processing time (msLoadMap not incl.): 0.094s
+[Sun Apr 08 16:24:47 2018].130000 msFreeMap(): freeing map at 007E6048.
+[Sun Apr 08 16:25:24 2018].776000 CGI Request 1 on process 7324
+[Sun Apr 08 16:25:24 2018].776000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:25:24 2018].776000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:25:24 2018].791000 msDrawMap(): Layer 1 (hospedaje), 0.015s
+[Sun Apr 08 16:25:24 2018].822000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:25:24 2018].854000 msDrawMap(): Layer 3 (naturales), 0.032s
+[Sun Apr 08 16:25:24 2018].885000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sun Apr 08 16:25:24 2018].916000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:25:24 2018].916000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sun Apr 08 16:25:24 2018].916000 msDrawMap() total time: 0.140s
+[Sun Apr 08 16:25:24 2018].963000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:25:24 2018].963000 mapserv request processing time (msLoadMap not incl.): 0.187s
+[Sun Apr 08 16:25:24 2018].963000 msFreeMap(): freeing map at 006666B0.
+[Sun Apr 08 16:25:26 2018].791000 CGI Request 1 on process 8188
+[Sun Apr 08 16:25:26 2018].807000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:25:26 2018].807000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:25:26 2018].948000 msDrawMap(): Layer 1 (hospedaje), 0.141s
+[Sun Apr 08 16:25:26 2018].979000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:25:27 2018].10000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sun Apr 08 16:25:27 2018].41000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sun Apr 08 16:25:27 2018].57000 msDrawMap(): Layer 5 (artesanales), 0.016s
+[Sun Apr 08 16:25:27 2018].73000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sun Apr 08 16:25:27 2018].73000 msDrawMap() total time: 0.266s
+[Sun Apr 08 16:25:27 2018].120000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:25:27 2018].120000 mapserv request processing time (msLoadMap not incl.): 0.329s
+[Sun Apr 08 16:25:27 2018].120000 msFreeMap(): freeing map at 009066B0.
+[Sun Apr 08 16:25:33 2018].121000 CGI Request 1 on process 6632
+[Sun Apr 08 16:25:33 2018].277000 mapserv request processing time (msLoadMap not incl.): 0.156s
+[Sun Apr 08 16:25:33 2018].277000 msFreeMap(): freeing map at 00EA5F68.
+[Sun Apr 08 16:26:41 2018].494000 CGI Request 1 on process 1364
+[Sun Apr 08 16:26:41 2018].510000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:26:41 2018].510000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:26:41 2018].682000 msDrawMap(): Layer 1 (hospedaje), 0.172s
+[Sun Apr 08 16:26:41 2018].729000 msDrawMap(): Layer 2 (gastronomia), 0.047s
+[Sun Apr 08 16:26:41 2018].776000 msDrawMap(): Layer 3 (naturales), 0.047s
+[Sun Apr 08 16:26:41 2018].822000 msDrawMap(): Layer 4 (culturales), 0.046s
+[Sun Apr 08 16:26:41 2018].885000 msDrawMap(): Layer 5 (artesanales), 0.063s
+[Sun Apr 08 16:26:41 2018].901000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sun Apr 08 16:26:41 2018].901000 msDrawMap() total time: 0.407s
+[Sun Apr 08 16:26:41 2018].947000 msSaveImage(stdout) total time: 0.046s
+[Sun Apr 08 16:26:41 2018].947000 mapserv request processing time (msLoadMap not incl.): 0.453s
+[Sun Apr 08 16:26:41 2018].947000 msFreeMap(): freeing map at 00BA80B0.
+[Sun Apr 08 16:26:57 2018].398000 CGI Request 1 on process 1940
+[Sun Apr 08 16:26:57 2018].398000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:26:57 2018].398000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:26:57 2018].758000 msPostGISLayerWhichShapes(): Error (ERROR:  la referencia a la columna «id» es ambigua
+LINE 1: ...gs"),'NDR'),'hex') as geom,"id" from (select L.*, id as codi...
+                                                             ^
+) executing query: select "nombre",encode(ST_AsBinary(("geomwgs"),'NDR'),'hex') as geom,"id" from (select L.*, id as codigo from lugares L, categoria_lugar AC where L.id=AC.lugar_id AND AC.categoria_id=2) as subquery where geomwgs && ST_GeomFromText('POLYGON((-78.9858718596616 -1.35420919518016,-78.9858718596616 -0.857959855989988,-77.9101394928784 -0.857959855989988,-77.9101394928784 -1.35420919518016,-78.9858718596616 -1.35420919518016))',4326)
+[Sun Apr 08 16:26:57 2018].758000 msPostGISLayerWhichShapes(): Query error. Error executing query. Check server logs
+[Sun Apr 08 16:26:57 2018].758000 msDrawMap(): Image handling error. Failed to draw layer named 'hospedaje'.
+[Sun Apr 08 16:26:57 2018].758000 mapserv request processing time (msLoadMap not incl.): 0.360s
+[Sun Apr 08 16:26:57 2018].758000 msFreeMap(): freeing map at 00E081F0.
+[Sun Apr 08 16:26:57 2018].507000 CGI Request 1 on process 6980
+[Sun Apr 08 16:26:57 2018].507000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:26:57 2018].507000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:26:57 2018].789000 msPostGISLayerWhichShapes(): Error (ERROR:  la referencia a la columna «id» es ambigua
+LINE 1: ...gs"),'NDR'),'hex') as geom,"id" from (select L.*, id as codi...
+                                                             ^
+) executing query: select "nombre",encode(ST_AsBinary(("geomwgs"),'NDR'),'hex') as geom,"id" from (select L.*, id as codigo from lugares L, categoria_lugar AC where L.id=AC.lugar_id AND AC.categoria_id=2) as subquery where geomwgs && ST_GeomFromText('POLYGON((-78.8530355888617 -1.30792217433481,-78.8530355888617 -0.904246876835372,-78.0429757636783 -0.904246876835372,-78.0429757636783 -1.30792217433481,-78.8530355888617 -1.30792217433481))',4326)
+[Sun Apr 08 16:26:57 2018].789000 msPostGISLayerWhichShapes(): Query error. Error executing query. Check server logs
+[Sun Apr 08 16:26:57 2018].789000 msDrawMap(): Image handling error. Failed to draw layer named 'hospedaje'.
+[Sun Apr 08 16:26:57 2018].805000 mapserv request processing time (msLoadMap not incl.): 0.298s
+[Sun Apr 08 16:26:57 2018].805000 msFreeMap(): freeing map at 00F77CA8.
+[Sun Apr 08 16:26:57 2018].820000 CGI Request 1 on process 7916
+[Sun Apr 08 16:26:57 2018].820000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:26:57 2018].820000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:26:57 2018].851000 msPostGISLayerWhichShapes(): Error (ERROR:  la referencia a la columna «id» es ambigua
+LINE 1: ...gs"),'NDR'),'hex') as geom,"id" from (select L.*, id as codi...
+                                                             ^
+) executing query: select "nombre",encode(ST_AsBinary(("geomwgs"),'NDR'),'hex') as geom,"id" from (select L.*, id as codigo from lugares L, categoria_lugar AC where L.id=AC.lugar_id AND AC.categoria_id=2) as subquery where geomwgs && ST_GeomFromText('POLYGON((-78.9858718596616 -1.35420919518016,-78.9858718596616 -0.857959855989988,-77.9101394928784 -0.857959855989988,-77.9101394928784 -1.35420919518016,-78.9858718596616 -1.35420919518016))',4326)
+[Sun Apr 08 16:26:57 2018].851000 msPostGISLayerWhichShapes(): Query error. Error executing query. Check server logs
+[Sun Apr 08 16:26:57 2018].851000 msDrawMap(): Image handling error. Failed to draw layer named 'hospedaje'.
+[Sun Apr 08 16:26:57 2018].851000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sun Apr 08 16:26:57 2018].851000 msFreeMap(): freeing map at 00BE8200.
+[Sun Apr 08 16:26:57 2018].883000 CGI Request 1 on process 7948
+[Sun Apr 08 16:26:57 2018].898000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:26:57 2018].898000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:26:57 2018].914000 msPostGISLayerWhichShapes(): Error (ERROR:  la referencia a la columna «id» es ambigua
+LINE 1: ...gs"),'NDR'),'hex') as geom,"id" from (select L.*, id as codi...
+                                                             ^
+) executing query: select "nombre",encode(ST_AsBinary(("geomwgs"),'NDR'),'hex') as geom,"id" from (select L.*, id as codigo from lugares L, categoria_lugar AC where L.id=AC.lugar_id AND AC.categoria_id=2) as subquery where geomwgs && ST_GeomFromText('POLYGON((-78.9858718596616 -1.35420919518016,-78.9858718596616 -0.857959855989988,-77.9101394928784 -0.857959855989988,-77.9101394928784 -1.35420919518016,-78.9858718596616 -1.35420919518016))',4326)
+[Sun Apr 08 16:26:57 2018].914000 msPostGISLayerWhichShapes(): Query error. Error executing query. Check server logs
+[Sun Apr 08 16:26:57 2018].914000 msDrawMap(): Image handling error. Failed to draw layer named 'hospedaje'.
+[Sun Apr 08 16:26:57 2018].914000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sun Apr 08 16:26:57 2018].914000 msFreeMap(): freeing map at 00C58200.
+[Sun Apr 08 16:26:57 2018].945000 CGI Request 1 on process 7968
+[Sun Apr 08 16:26:57 2018].961000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:26:57 2018].961000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:26:57 2018].976000 msPostGISLayerWhichShapes(): Error (ERROR:  la referencia a la columna «id» es ambigua
+LINE 1: ...gs"),'NDR'),'hex') as geom,"id" from (select L.*, id as codi...
+                                                             ^
+) executing query: select "nombre",encode(ST_AsBinary(("geomwgs"),'NDR'),'hex') as geom,"id" from (select L.*, id as codigo from lugares L, categoria_lugar AC where L.id=AC.lugar_id AND AC.categoria_id=2) as subquery where geomwgs && ST_GeomFromText('POLYGON((-78.9858718596616 -1.35420919518016,-78.9858718596616 -0.857959855989988,-77.9101394928784 -0.857959855989988,-77.9101394928784 -1.35420919518016,-78.9858718596616 -1.35420919518016))',4326)
+[Sun Apr 08 16:26:57 2018].976000 msPostGISLayerWhichShapes(): Query error. Error executing query. Check server logs
+[Sun Apr 08 16:26:57 2018].976000 msDrawMap(): Image handling error. Failed to draw layer named 'hospedaje'.
+[Sun Apr 08 16:26:57 2018].976000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sun Apr 08 16:26:57 2018].976000 msFreeMap(): freeing map at 010C8200.
+[Sun Apr 08 16:26:58 2018].70000 CGI Request 1 on process 5880
+[Sun Apr 08 16:26:58 2018].70000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:26:58 2018].70000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:26:58 2018].86000 msPostGISLayerWhichShapes(): Error (ERROR:  la referencia a la columna «id» es ambigua
+LINE 1: ...gs"),'NDR'),'hex') as geom,"id" from (select L.*, id as codi...
+                                                             ^
+) executing query: select "nombre",encode(ST_AsBinary(("geomwgs"),'NDR'),'hex') as geom,"id" from (select L.*, id as codigo from lugares L, categoria_lugar AC where L.id=AC.lugar_id AND AC.categoria_id=2) as subquery where geomwgs && ST_GeomFromText('POLYGON((-78.9858718596616 -1.35420919518016,-78.9858718596616 -0.857959855989988,-77.9101394928784 -0.857959855989988,-77.9101394928784 -1.35420919518016,-78.9858718596616 -1.35420919518016))',4326)
+[Sun Apr 08 16:26:58 2018].86000 msPostGISLayerWhichShapes(): Query error. Error executing query. Check server logs
+[Sun Apr 08 16:26:58 2018].86000 msDrawMap(): Image handling error. Failed to draw layer named 'hospedaje'.
+[Sun Apr 08 16:26:58 2018].86000 mapserv request processing time (msLoadMap not incl.): 0.016s
+[Sun Apr 08 16:26:58 2018].86000 msFreeMap(): freeing map at 01005C50.
+[Sun Apr 08 16:27:36 2018].901000 CGI Request 1 on process 732
+[Sun Apr 08 16:27:36 2018].901000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:27:36 2018].901000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:27:36 2018].932000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sun Apr 08 16:27:36 2018].963000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:27:36 2018].994000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sun Apr 08 16:27:37 2018].26000 msDrawMap(): Layer 4 (culturales), 0.032s
+[Sun Apr 08 16:27:37 2018].57000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:27:37 2018].73000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sun Apr 08 16:27:37 2018].73000 msDrawMap() total time: 0.172s
+[Sun Apr 08 16:27:37 2018].119000 msSaveImage(stdout) total time: 0.046s
+[Sun Apr 08 16:27:37 2018].119000 mapserv request processing time (msLoadMap not incl.): 0.218s
+[Sun Apr 08 16:27:37 2018].119000 msFreeMap(): freeing map at 013680B0.
+[Sun Apr 08 16:27:37 2018].10000 CGI Request 1 on process 5404
+[Sun Apr 08 16:27:37 2018].10000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:27:37 2018].10000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:27:37 2018].57000 msDrawMap(): Layer 1 (hospedaje), 0.047s
+[Sun Apr 08 16:27:37 2018].73000 msDrawMap(): Layer 2 (gastronomia), 0.016s
+[Sun Apr 08 16:27:37 2018].104000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sun Apr 08 16:27:37 2018].135000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sun Apr 08 16:27:37 2018].166000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:27:37 2018].166000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sun Apr 08 16:27:37 2018].166000 msDrawMap() total time: 0.156s
+[Sun Apr 08 16:27:37 2018].182000 msSaveImage(stdout) total time: 0.016s
+[Sun Apr 08 16:27:37 2018].182000 mapserv request processing time (msLoadMap not incl.): 0.172s
+[Sun Apr 08 16:27:37 2018].182000 msFreeMap(): freeing map at 00B97CA8.
+[Sun Apr 08 16:27:42 2018].436000 CGI Request 1 on process 6660
+[Sun Apr 08 16:27:42 2018].452000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:27:42 2018].452000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:27:42 2018].468000 msDrawMap(): Layer 1 (hospedaje), 0.016s
+[Sun Apr 08 16:27:42 2018].499000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:27:42 2018].530000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sun Apr 08 16:27:42 2018].546000 msDrawMap(): Layer 4 (culturales), 0.016s
+[Sun Apr 08 16:27:42 2018].577000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:27:42 2018].593000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sun Apr 08 16:27:42 2018].593000 msDrawMap() total time: 0.157s
+[Sun Apr 08 16:27:42 2018].640000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:27:42 2018].640000 mapserv request processing time (msLoadMap not incl.): 0.204s
+[Sun Apr 08 16:27:42 2018].640000 msFreeMap(): freeing map at 00B37F20.
+[Sun Apr 08 16:27:46 2018].975000 CGI Request 1 on process 7512
+[Sun Apr 08 16:27:46 2018].975000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:27:46 2018].975000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:27:47 2018].6000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sun Apr 08 16:27:47 2018].22000 msDrawMap(): Layer 2 (gastronomia), 0.016s
+[Sun Apr 08 16:27:47 2018].53000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sun Apr 08 16:27:47 2018].84000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sun Apr 08 16:27:47 2018].115000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:27:47 2018].115000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sun Apr 08 16:27:47 2018].115000 msDrawMap() total time: 0.140s
+[Sun Apr 08 16:27:47 2018].162000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:27:47 2018].162000 mapserv request processing time (msLoadMap not incl.): 0.187s
+[Sun Apr 08 16:27:47 2018].162000 msFreeMap(): freeing map at 00FD7EC8.
+[Sun Apr 08 16:27:53 2018].357000 CGI Request 1 on process 7172
+[Sun Apr 08 16:27:53 2018].498000 mapserv request processing time (msLoadMap not incl.): 0.141s
+[Sun Apr 08 16:27:53 2018].498000 msFreeMap(): freeing map at 00B16048.
+[Sun Apr 08 16:28:17 2018].782000 CGI Request 1 on process 5864
+[Sun Apr 08 16:28:17 2018].782000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:28:17 2018].782000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:28:17 2018].860000 msDrawMap(): Layer 1 (hospedaje), 0.078s
+[Sun Apr 08 16:28:17 2018].891000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:28:17 2018].923000 msDrawMap(): Layer 3 (naturales), 0.032s
+[Sun Apr 08 16:28:17 2018].954000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sun Apr 08 16:28:17 2018].985000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:28:18 2018].1000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sun Apr 08 16:28:18 2018].1000 msDrawMap() total time: 0.219s
+[Sun Apr 08 16:28:18 2018].48000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:28:18 2018].48000 mapserv request processing time (msLoadMap not incl.): 0.266s
+[Sun Apr 08 16:28:18 2018].48000 msFreeMap(): freeing map at 00748628.
+[Sun Apr 08 16:28:17 2018].891000 CGI Request 1 on process 6024
+[Sun Apr 08 16:28:17 2018].891000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:28:17 2018].891000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:28:17 2018].923000 msDrawMap(): Layer 1 (hospedaje), 0.032s
+[Sun Apr 08 16:28:17 2018].969000 msDrawMap(): Layer 2 (gastronomia), 0.046s
+[Sun Apr 08 16:28:18 2018].1000 msDrawMap(): Layer 3 (naturales), 0.032s
+[Sun Apr 08 16:28:18 2018].32000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sun Apr 08 16:28:18 2018].63000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:28:18 2018].63000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sun Apr 08 16:28:18 2018].63000 msDrawMap() total time: 0.172s
+[Sun Apr 08 16:28:18 2018].63000 msSaveImage(stdout) total time: 0.000s
+[Sun Apr 08 16:28:18 2018].63000 mapserv request processing time (msLoadMap not incl.): 0.172s
+[Sun Apr 08 16:28:18 2018].63000 msFreeMap(): freeing map at 00B38218.
+[Sun Apr 08 16:28:23 2018].486000 CGI Request 1 on process 8028
+[Sun Apr 08 16:28:23 2018].486000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:28:23 2018].486000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:28:23 2018].517000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sun Apr 08 16:28:23 2018].548000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:28:23 2018].580000 msDrawMap(): Layer 3 (naturales), 0.032s
+[Sun Apr 08 16:28:23 2018].595000 msDrawMap(): Layer 4 (culturales), 0.015s
+[Sun Apr 08 16:28:23 2018].626000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:28:23 2018].642000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sun Apr 08 16:28:23 2018].642000 msDrawMap() total time: 0.156s
+[Sun Apr 08 16:28:23 2018].689000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:28:23 2018].689000 mapserv request processing time (msLoadMap not incl.): 0.203s
+[Sun Apr 08 16:28:23 2018].689000 msFreeMap(): freeing map at 010E8498.
+[Sun Apr 08 16:28:25 2018].441000 CGI Request 1 on process 5256
+[Sun Apr 08 16:28:25 2018].456000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:28:25 2018].456000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:28:25 2018].488000 msDrawMap(): Layer 1 (hospedaje), 0.032s
+[Sun Apr 08 16:28:25 2018].503000 msDrawMap(): Layer 2 (gastronomia), 0.015s
+[Sun Apr 08 16:28:25 2018].535000 msDrawMap(): Layer 3 (naturales), 0.032s
+[Sun Apr 08 16:28:25 2018].566000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sun Apr 08 16:28:25 2018].581000 msDrawMap(): Layer 5 (artesanales), 0.015s
+[Sun Apr 08 16:28:25 2018].597000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sun Apr 08 16:28:25 2018].597000 msDrawMap() total time: 0.156s
+[Sun Apr 08 16:28:25 2018].644000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:28:25 2018].644000 mapserv request processing time (msLoadMap not incl.): 0.203s
+[Sun Apr 08 16:28:25 2018].644000 msFreeMap(): freeing map at 00778440.
+[Sun Apr 08 16:28:27 2018].254000 CGI Request 1 on process 2892
+[Sun Apr 08 16:28:27 2018].254000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:28:27 2018].254000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:28:27 2018].286000 msDrawMap(): Layer 1 (hospedaje), 0.032s
+[Sun Apr 08 16:28:27 2018].317000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:28:27 2018].348000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sun Apr 08 16:28:27 2018].379000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sun Apr 08 16:28:27 2018].395000 msDrawMap(): Layer 5 (artesanales), 0.016s
+[Sun Apr 08 16:28:27 2018].411000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sun Apr 08 16:28:27 2018].411000 msDrawMap() total time: 0.157s
+[Sun Apr 08 16:28:27 2018].457000 msSaveImage(stdout) total time: 0.046s
+[Sun Apr 08 16:28:27 2018].457000 mapserv request processing time (msLoadMap not incl.): 0.203s
+[Sun Apr 08 16:28:27 2018].457000 msFreeMap(): freeing map at 00448498.
+[Sun Apr 08 16:28:28 2018].129000 CGI Request 1 on process 7668
+[Sun Apr 08 16:28:28 2018].129000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:28:28 2018].129000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:28:28 2018].161000 msDrawMap(): Layer 1 (hospedaje), 0.032s
+[Sun Apr 08 16:28:28 2018].192000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:28:28 2018].207000 msDrawMap(): Layer 3 (naturales), 0.015s
+[Sun Apr 08 16:28:28 2018].239000 msDrawMap(): Layer 4 (culturales), 0.016s
+[Sun Apr 08 16:28:28 2018].270000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:28:28 2018].286000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sun Apr 08 16:28:28 2018].286000 msDrawMap() total time: 0.157s
+[Sun Apr 08 16:28:28 2018].332000 msSaveImage(stdout) total time: 0.046s
+[Sun Apr 08 16:28:28 2018].332000 mapserv request processing time (msLoadMap not incl.): 0.203s
+[Sun Apr 08 16:28:28 2018].332000 msFreeMap(): freeing map at 01218498.
+[Sun Apr 08 16:28:34 2018].713000 CGI Request 1 on process 7476
+[Sun Apr 08 16:28:34 2018].854000 mapserv request processing time (msLoadMap not incl.): 0.141s
+[Sun Apr 08 16:28:34 2018].854000 msFreeMap(): freeing map at 00DB5F68.
+[Sun Apr 08 16:28:46 2018].87000 CGI Request 1 on process 7160
+[Sun Apr 08 16:28:46 2018].91000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:28:46 2018].91000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:28:46 2018].121000 msDrawMap(): Layer 1 (hospedaje), 0.030s
+[Sun Apr 08 16:28:46 2018].154000 msDrawMap(): Layer 2 (gastronomia), 0.033s
+[Sun Apr 08 16:28:46 2018].185000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sun Apr 08 16:28:46 2018].221000 msDrawMap(): Layer 4 (culturales), 0.035s
+[Sun Apr 08 16:28:46 2018].252000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:28:46 2018].261000 msDrawMap(): Drawing Label Cache, 0.009s
+[Sun Apr 08 16:28:46 2018].261000 msDrawMap() total time: 0.174s
+[Sun Apr 08 16:28:46 2018].308000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:28:46 2018].309000 mapserv request processing time (msLoadMap not incl.): 0.222s
+[Sun Apr 08 16:28:46 2018].309000 msFreeMap(): freeing map at 00487D68.
+[Sun Apr 08 16:29:52 2018].859000 CGI Request 1 on process 4076
+[Sun Apr 08 16:29:52 2018].859000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:29:52 2018].859000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:29:52 2018].890000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sun Apr 08 16:29:52 2018].937000 msDrawMap(): Layer 2 (gastronomia), 0.047s
+[Sun Apr 08 16:29:52 2018].968000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sun Apr 08 16:29:52 2018].999000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sun Apr 08 16:29:53 2018].30000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:29:53 2018].46000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sun Apr 08 16:29:53 2018].46000 msDrawMap() total time: 0.187s
+[Sun Apr 08 16:29:53 2018].93000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:29:53 2018].93000 mapserv request processing time (msLoadMap not incl.): 0.234s
+[Sun Apr 08 16:29:53 2018].93000 msFreeMap(): freeing map at 00F08020.
+[Sun Apr 08 16:29:52 2018].968000 CGI Request 1 on process 5200
+[Sun Apr 08 16:29:52 2018].968000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:29:52 2018].968000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:29:52 2018].999000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sun Apr 08 16:29:53 2018].30000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:29:53 2018].77000 msDrawMap(): Layer 3 (naturales), 0.047s
+[Sun Apr 08 16:29:53 2018].109000 msDrawMap(): Layer 4 (culturales), 0.032s
+[Sun Apr 08 16:29:53 2018].140000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:29:53 2018].140000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sun Apr 08 16:29:53 2018].140000 msDrawMap() total time: 0.172s
+[Sun Apr 08 16:29:53 2018].140000 msSaveImage(stdout) total time: 0.000s
+[Sun Apr 08 16:29:53 2018].140000 mapserv request processing time (msLoadMap not incl.): 0.172s
+[Sun Apr 08 16:29:53 2018].140000 msFreeMap(): freeing map at 00C67B78.
+[Sun Apr 08 16:30:00 2018].143000 CGI Request 1 on process 7836
+[Sun Apr 08 16:30:00 2018].143000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:30:00 2018].143000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:30:00 2018].581000 msDrawMap(): Layer 1 (hospedaje), 0.438s
+[Sun Apr 08 16:30:00 2018].612000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:30:00 2018].628000 msDrawMap(): Layer 3 (naturales), 0.016s
+[Sun Apr 08 16:30:00 2018].659000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sun Apr 08 16:30:00 2018].690000 msDrawMap(): Layer 5 (artesanales), 0.031s
+[Sun Apr 08 16:30:00 2018].690000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sun Apr 08 16:30:00 2018].690000 msDrawMap() total time: 0.547s
+[Sun Apr 08 16:30:00 2018].737000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:30:00 2018].737000 mapserv request processing time (msLoadMap not incl.): 0.594s
+[Sun Apr 08 16:30:00 2018].737000 msFreeMap(): freeing map at 012580B8.
+[Sun Apr 08 16:30:20 2018].510000 CGI Request 1 on process 224
+[Sun Apr 08 16:30:20 2018].510000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:30:20 2018].510000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:30:20 2018].542000 msPostGISLayerWhichShapes(): Error (ERROR:  error de sintaxis en o cerca de «,»
+LINE 1: ...as geom,"id" from "public"."lugares" where geomwgs, id as co...
+                                                             ^
+) executing query: select "nombre",encode(ST_AsBinary(("geomwgs, id as codigo"),'NDR'),'hex') as geom,"id" from "public"."lugares" where geomwgs, id as codigo && ST_GeomFromText('POLYGON((-78.9858718596616 -1.35420919518016,-78.9858718596616 -0.857959855989988,-77.9101394928784 -0.857959855989988,-77.9101394928784 -1.35420919518016,-78.9858718596616 -1.35420919518016))',4326)
+[Sun Apr 08 16:30:20 2018].542000 msPostGISLayerWhichShapes(): Query error. Error executing query. Check server logs
+[Sun Apr 08 16:30:20 2018].542000 msDrawMap(): Image handling error. Failed to draw layer named 'lugares'.
+[Sun Apr 08 16:30:20 2018].557000 mapserv request processing time (msLoadMap not incl.): 0.047s
+[Sun Apr 08 16:30:20 2018].557000 msFreeMap(): freeing map at 00378CF0.
+[Sun Apr 08 16:30:20 2018].636000 CGI Request 1 on process 6040
+[Sun Apr 08 16:30:20 2018].636000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:30:20 2018].636000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:30:20 2018].651000 msPostGISLayerWhichShapes(): Error (ERROR:  error de sintaxis en o cerca de «,»
+LINE 1: ...as geom,"id" from "public"."lugares" where geomwgs, id as co...
+                                                             ^
+) executing query: select "nombre",encode(ST_AsBinary(("geomwgs, id as codigo"),'NDR'),'hex') as geom,"id" from "public"."lugares" where geomwgs, id as codigo && ST_GeomFromText('POLYGON((-78.9858718596616 -1.35420919518016,-78.9858718596616 -0.857959855989988,-77.9101394928784 -0.857959855989988,-77.9101394928784 -1.35420919518016,-78.9858718596616 -1.35420919518016))',4326)
+[Sun Apr 08 16:30:20 2018].651000 msPostGISLayerWhichShapes(): Query error. Error executing query. Check server logs
+[Sun Apr 08 16:30:20 2018].651000 msDrawMap(): Image handling error. Failed to draw layer named 'lugares'.
+[Sun Apr 08 16:30:20 2018].667000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sun Apr 08 16:30:20 2018].667000 msFreeMap(): freeing map at 00C080F0.
+[Sun Apr 08 16:30:20 2018].636000 CGI Request 1 on process 6524
+[Sun Apr 08 16:30:20 2018].636000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:30:20 2018].636000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:30:20 2018].667000 msPostGISLayerWhichShapes(): Error (ERROR:  error de sintaxis en o cerca de «,»
+LINE 1: ...as geom,"id" from "public"."lugares" where geomwgs, id as co...
+                                                             ^
+) executing query: select "nombre",encode(ST_AsBinary(("geomwgs, id as codigo"),'NDR'),'hex') as geom,"id" from "public"."lugares" where geomwgs, id as codigo && ST_GeomFromText('POLYGON((-78.8530355888617 -1.30792217433481,-78.8530355888617 -0.904246876835372,-78.0429757636783 -0.904246876835372,-78.0429757636783 -1.30792217433481,-78.8530355888617 -1.30792217433481))',4326)
+[Sun Apr 08 16:30:20 2018].667000 msPostGISLayerWhichShapes(): Query error. Error executing query. Check server logs
+[Sun Apr 08 16:30:20 2018].667000 msDrawMap(): Image handling error. Failed to draw layer named 'lugares'.
+[Sun Apr 08 16:30:20 2018].667000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sun Apr 08 16:30:20 2018].667000 msFreeMap(): freeing map at 00327CB0.
+[Sun Apr 08 16:30:20 2018].698000 CGI Request 1 on process 6648
+[Sun Apr 08 16:30:20 2018].698000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:30:20 2018].698000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:30:20 2018].729000 msPostGISLayerWhichShapes(): Error (ERROR:  error de sintaxis en o cerca de «,»
+LINE 1: ...as geom,"id" from "public"."lugares" where geomwgs, id as co...
+                                                             ^
+) executing query: select "nombre",encode(ST_AsBinary(("geomwgs, id as codigo"),'NDR'),'hex') as geom,"id" from "public"."lugares" where geomwgs, id as codigo && ST_GeomFromText('POLYGON((-78.9858718596616 -1.35420919518016,-78.9858718596616 -0.857959855989988,-77.9101394928784 -0.857959855989988,-77.9101394928784 -1.35420919518016,-78.9858718596616 -1.35420919518016))',4326)
+[Sun Apr 08 16:30:20 2018].729000 msPostGISLayerWhichShapes(): Query error. Error executing query. Check server logs
+[Sun Apr 08 16:30:20 2018].729000 msDrawMap(): Image handling error. Failed to draw layer named 'lugares'.
+[Sun Apr 08 16:30:20 2018].729000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sun Apr 08 16:30:20 2018].729000 msFreeMap(): freeing map at 01128CF0.
+[Sun Apr 08 16:30:20 2018].761000 CGI Request 1 on process 3416
+[Sun Apr 08 16:30:20 2018].761000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:30:20 2018].761000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:30:20 2018].792000 msPostGISLayerWhichShapes(): Error (ERROR:  error de sintaxis en o cerca de «,»
+LINE 1: ...as geom,"id" from "public"."lugares" where geomwgs, id as co...
+                                                             ^
+) executing query: select "nombre",encode(ST_AsBinary(("geomwgs, id as codigo"),'NDR'),'hex') as geom,"id" from "public"."lugares" where geomwgs, id as codigo && ST_GeomFromText('POLYGON((-78.9858718596616 -1.35420919518016,-78.9858718596616 -0.857959855989988,-77.9101394928784 -0.857959855989988,-77.9101394928784 -1.35420919518016,-78.9858718596616 -1.35420919518016))',4326)
+[Sun Apr 08 16:30:20 2018].792000 msPostGISLayerWhichShapes(): Query error. Error executing query. Check server logs
+[Sun Apr 08 16:30:20 2018].792000 msDrawMap(): Image handling error. Failed to draw layer named 'lugares'.
+[Sun Apr 08 16:30:20 2018].792000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sun Apr 08 16:30:20 2018].792000 msFreeMap(): freeing map at 00F080F0.
+[Sun Apr 08 16:30:20 2018].917000 CGI Request 1 on process 7084
+[Sun Apr 08 16:30:20 2018].917000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:30:20 2018].917000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:30:20 2018].995000 msPostGISLayerWhichShapes(): Error (ERROR:  error de sintaxis en o cerca de «,»
+LINE 1: ...as geom,"id" from "public"."lugares" where geomwgs, id as co...
+                                                             ^
+) executing query: select "nombre",encode(ST_AsBinary(("geomwgs, id as codigo"),'NDR'),'hex') as geom,"id" from "public"."lugares" where geomwgs, id as codigo && ST_GeomFromText('POLYGON((-78.9858718596616 -1.35420919518016,-78.9858718596616 -0.857959855989988,-77.9101394928784 -0.857959855989988,-77.9101394928784 -1.35420919518016,-78.9858718596616 -1.35420919518016))',4326)
+[Sun Apr 08 16:30:20 2018].995000 msPostGISLayerWhichShapes(): Query error. Error executing query. Check server logs
+[Sun Apr 08 16:30:20 2018].995000 msDrawMap(): Image handling error. Failed to draw layer named 'lugares'.
+[Sun Apr 08 16:30:20 2018].995000 mapserv request processing time (msLoadMap not incl.): 0.078s
+[Sun Apr 08 16:30:20 2018].995000 msFreeMap(): freeing map at 00C75E00.
+[Sun Apr 08 16:30:27 2018].686000 CGI Request 1 on process 1108
+[Sun Apr 08 16:30:27 2018].686000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sun Apr 08 16:30:27 2018].686000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sun Apr 08 16:30:27 2018].686000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:30:27 2018].686000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:30:27 2018].717000 msPostGISLayerWhichShapes(): Error (ERROR:  error de sintaxis en o cerca de «,»
+LINE 1: ...as geom,"id" from "public"."lugares" where geomwgs, id as co...
+                                                             ^
+) executing query: select "nombre",encode(ST_AsBinary(("geomwgs, id as codigo"),'NDR'),'hex') as geom,"id" from "public"."lugares" where geomwgs, id as codigo && ST_GeomFromText('POLYGON((-78.554 -1.178,-78.554 -1.165,-78.532 -1.165,-78.532 -1.178,-78.554 -1.178))',4326)
+[Sun Apr 08 16:30:27 2018].717000 msPostGISLayerWhichShapes(): Query error. Error executing query. Check server logs
+[Sun Apr 08 16:30:27 2018].717000 msDrawMap(): Image handling error. Failed to draw layer named 'lugares'.
+[Sun Apr 08 16:30:27 2018].717000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sun Apr 08 16:30:27 2018].717000 msFreeMap(): freeing map at 007C5E48.
+[Sun Apr 08 16:31:53 2018].834000 CGI Request 1 on process 6032
+[Sun Apr 08 16:31:53 2018].834000 msWMSLoadGetMapParams(): enabling non-square pixels.
+[Sun Apr 08 16:31:53 2018].834000 msDrawMap(): kicking into non-square pixel preserving mode.
+[Sun Apr 08 16:31:53 2018].834000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:31:53 2018].834000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:31:53 2018].880000 msDrawMap(): Layer 0 (lugares), 0.046s
+[Sun Apr 08 16:31:53 2018].880000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sun Apr 08 16:31:53 2018].880000 msDrawMap() total time: 0.046s
+[Sun Apr 08 16:31:53 2018].880000 msSaveImage(stdout) total time: 0.000s
+[Sun Apr 08 16:31:53 2018].880000 mapserv request processing time (msLoadMap not incl.): 0.046s
+[Sun Apr 08 16:31:53 2018].880000 msFreeMap(): freeing map at 00E05F70.
+[Sun Apr 08 16:32:00 2018].415000 CGI Request 1 on process 5092
+[Sun Apr 08 16:32:00 2018].415000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:32:00 2018].415000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:32:00 2018].446000 msDrawMap(): Layer 0 (lugares), 0.031s
+[Sun Apr 08 16:32:00 2018].477000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sun Apr 08 16:32:00 2018].509000 msDrawMap(): Layer 2 (gastronomia), 0.032s
+[Sun Apr 08 16:32:00 2018].540000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sun Apr 08 16:32:00 2018].587000 msDrawMap(): Layer 4 (culturales), 0.047s
+[Sun Apr 08 16:32:00 2018].649000 msDrawMap(): Layer 5 (artesanales), 0.062s
+[Sun Apr 08 16:32:00 2018].665000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sun Apr 08 16:32:00 2018].665000 msDrawMap() total time: 0.250s
+[Sun Apr 08 16:32:00 2018].712000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:32:00 2018].712000 mapserv request processing time (msLoadMap not incl.): 0.297s
+[Sun Apr 08 16:32:00 2018].712000 msFreeMap(): freeing map at 00577FB8.
+[Sun Apr 08 16:32:00 2018].524000 CGI Request 1 on process 4336
+[Sun Apr 08 16:32:00 2018].524000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:32:00 2018].524000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:32:00 2018].571000 msDrawMap(): Layer 0 (lugares), 0.047s
+[Sun Apr 08 16:32:00 2018].618000 msDrawMap(): Layer 1 (hospedaje), 0.047s
+[Sun Apr 08 16:32:00 2018].649000 msDrawMap(): Layer 2 (gastronomia), 0.031s
+[Sun Apr 08 16:32:00 2018].680000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sun Apr 08 16:32:00 2018].696000 msDrawMap(): Layer 4 (culturales), 0.016s
+[Sun Apr 08 16:32:00 2018].743000 msDrawMap(): Layer 5 (artesanales), 0.047s
+[Sun Apr 08 16:32:00 2018].743000 msDrawMap(): Drawing Label Cache, 0.000s
+[Sun Apr 08 16:32:00 2018].743000 msDrawMap() total time: 0.219s
+[Sun Apr 08 16:32:00 2018].743000 msSaveImage(stdout) total time: 0.000s
+[Sun Apr 08 16:32:00 2018].743000 mapserv request processing time (msLoadMap not incl.): 0.219s
+[Sun Apr 08 16:32:00 2018].743000 msFreeMap(): freeing map at 01097CB0.
+[Sun Apr 08 16:32:09 2018].834000 CGI Request 1 on process 6824
+[Sun Apr 08 16:32:09 2018].834000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:32:09 2018].834000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:32:09 2018].865000 msDrawMap(): Layer 0 (lugares), 0.031s
+[Sun Apr 08 16:32:09 2018].896000 msDrawMap(): Layer 1 (hospedaje), 0.031s
+[Sun Apr 08 16:32:09 2018].912000 msDrawMap(): Layer 2 (gastronomia), 0.016s
+[Sun Apr 08 16:32:09 2018].943000 msDrawMap(): Layer 3 (naturales), 0.031s
+[Sun Apr 08 16:32:09 2018].974000 msDrawMap(): Layer 4 (culturales), 0.031s
+[Sun Apr 08 16:32:10 2018].6000 msDrawMap(): Layer 5 (artesanales), 0.032s
+[Sun Apr 08 16:32:10 2018].21000 msDrawMap(): Drawing Label Cache, 0.015s
+[Sun Apr 08 16:32:10 2018].21000 msDrawMap() total time: 0.187s
+[Sun Apr 08 16:32:10 2018].53000 msSaveImage(stdout) total time: 0.032s
+[Sun Apr 08 16:32:10 2018].68000 mapserv request processing time (msLoadMap not incl.): 0.234s
+[Sun Apr 08 16:32:10 2018].68000 msFreeMap(): freeing map at 00ED7FB8.
+[Sun Apr 08 16:32:17 2018].189000 CGI Request 1 on process 3632
+[Sun Apr 08 16:32:17 2018].189000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:32:17 2018].189000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:32:17 2018].236000 msDrawMap(): Layer 0 (lugares), 0.047s
+[Sun Apr 08 16:32:17 2018].252000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sun Apr 08 16:32:17 2018].252000 msDrawMap() total time: 0.063s
+[Sun Apr 08 16:32:17 2018].299000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:32:17 2018].299000 mapserv request processing time (msLoadMap not incl.): 0.110s
+[Sun Apr 08 16:32:17 2018].299000 msFreeMap(): freeing map at 01187720.
+[Sun Apr 08 16:32:17 2018].236000 CGI Request 1 on process 3972
+[Sun Apr 08 16:32:17 2018].236000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:32:17 2018].236000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:32:17 2018].268000 msDrawMap(): Layer 0 (lugares), 0.032s
+[Sun Apr 08 16:32:17 2018].283000 msDrawMap(): Drawing Label Cache, 0.015s
+[Sun Apr 08 16:32:17 2018].283000 msDrawMap() total time: 0.047s
+[Sun Apr 08 16:32:17 2018].330000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:32:17 2018].330000 mapserv request processing time (msLoadMap not incl.): 0.094s
+[Sun Apr 08 16:32:17 2018].330000 msFreeMap(): freeing map at 012C7720.
+[Sun Apr 08 16:32:25 2018].574000 CGI Request 1 on process 7948
+[Sun Apr 08 16:32:25 2018].605000 mapserv request processing time (msLoadMap not incl.): 0.031s
+[Sun Apr 08 16:32:25 2018].605000 msFreeMap(): freeing map at 005054D8.
+[Sun Apr 08 16:32:35 2018].719000 CGI Request 1 on process 3416
+[Sun Apr 08 16:32:35 2018].720000 msDrawMap(): rendering using outputformat named png (AGG/PNG8).
+[Sun Apr 08 16:32:35 2018].720000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Sun Apr 08 16:32:35 2018].758000 msDrawMap(): Layer 0 (lugares), 0.038s
+[Sun Apr 08 16:32:35 2018].795000 msDrawMap(): Layer 1 (hospedaje), 0.037s
+[Sun Apr 08 16:32:35 2018].830000 msDrawMap(): Layer 2 (gastronomia), 0.035s
+[Sun Apr 08 16:32:35 2018].871000 msDrawMap(): Layer 3 (naturales), 0.041s
+[Sun Apr 08 16:32:35 2018].906000 msDrawMap(): Layer 4 (culturales), 0.034s
+[Sun Apr 08 16:32:35 2018].936000 msDrawMap(): Layer 5 (artesanales), 0.030s
+[Sun Apr 08 16:32:35 2018].952000 msDrawMap(): Drawing Label Cache, 0.016s
+[Sun Apr 08 16:32:35 2018].952000 msDrawMap() total time: 0.233s
+[Sun Apr 08 16:32:35 2018].999000 msSaveImage(stdout) total time: 0.047s
+[Sun Apr 08 16:32:35 2018].999000 mapserv request processing time (msLoadMap not incl.): 0.281s
+[Sun Apr 08 16:32:35 2018].999000 msFreeMap(): freeing map at 00E880B0.
